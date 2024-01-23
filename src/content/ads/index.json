@@ -5,48 +5,48 @@
       "columnAds": [
         {
           "image": {
-            "src": "tier1-default-lobby-space1.png"
+            "src": ""
           },
           "column": "left",
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "link": ""
           }
         },
         {
           "image": {
-            "src": "tier1-default-lobby-button.png"
+            "src": ""
           },
           "column": "left",
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "link": ""
           }
         },
         {
           "image": {
-            "src": "tier1-default-lobby-button.png"
+            "src": ""
           },
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "link": ""
           },
           "column": "right"
         },
         {
           "image": {
-            "src": "tier1-default-lobby-space1.png"
+            "src": ""
           },
           "button": {
             "text": "",
-            "link": "/link-to-url-of-your-choice"
+            "link": ""
           },
           "column": "right",
           "id": null
         },
         {
           "image": {
-            "src": "tier1-default-lobby-space2.png"
+            "src": ""
           },
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "link": ""
           },
           "column": "right",
           "id": null
