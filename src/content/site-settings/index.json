@@ -43,6 +43,19 @@
     "favicon16": "/img/favicon.png"
   },
   "siteMetadata": {
-    "title": "Default"
+    "title": "OpenInfra Summit Asia 2024 - Register Now"
+  },
+  "favicon": {
+    "asset": "openstackicon.png"
+  },
+  "siteFont": {
+    "regularFont": {
+      "fontFile": "/static/fonts/robotocondensed-bold.ttf",
+      "fontFormat": "ttf"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/robotocondensed-bold.ttf",
+      "fontFormat": "ttf"
+    }
   }
 }
