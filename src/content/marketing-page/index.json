@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "OpenInfra Summit Asia",
+    "date": "September 3 & 4, 2024",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "KST",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -16,15 +16,12 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "homepage-bg.png"
       }
-    ]
+    ],
+    "background": {
+      "src": "summit-landing-hero-64264ba54019bbcdc7fcc397931d3500.png"
+    }
   },
   "countdown": {
     "display": true,
