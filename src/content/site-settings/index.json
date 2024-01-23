@@ -43,7 +43,9 @@
     "favicon16": "/img/favicon.png"
   },
   "siteMetadata": {
-    "title": "OpenInfra Summit Asia 2024 - Register Now"
+    "title": "OpenInfra Summit Asia 2024 - Register Now",
+    "description": "The OpenInfra community, a global collaboration of 110,000 people across 187 countries, builds and operates infrastructure powered by open source software.",
+    "image": "https://openinfra.dev/static/c2f397ff5ff9f9f9dd2edbf357656146/OpenInfra-icon-white.jpg"
   },
   "favicon": {
     "asset": "openstackicon.png"
