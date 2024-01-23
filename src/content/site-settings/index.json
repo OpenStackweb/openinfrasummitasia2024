@@ -56,6 +56,7 @@
     "boldFont": {
       "fontFile": "/static/fonts/robotocondensed-bold.ttf",
       "fontFormat": "ttf"
-    }
+    },
+    "fontFamily": "ROBOTO"
   }
 }
