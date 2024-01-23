@@ -2,56 +2,7 @@
   "ads": [
     {
       "section": "lobby",
-      "columnAds": [
-        {
-          "image": {
-            "src": ""
-          },
-          "column": "left",
-          "button": {
-            "link": ""
-          }
-        },
-        {
-          "image": {
-            "src": ""
-          },
-          "column": "left",
-          "button": {
-            "link": ""
-          }
-        },
-        {
-          "image": {
-            "src": ""
-          },
-          "button": {
-            "link": ""
-          },
-          "column": "right"
-        },
-        {
-          "image": {
-            "src": ""
-          },
-          "button": {
-            "text": "",
-            "link": ""
-          },
-          "column": "right",
-          "id": null
-        },
-        {
-          "image": {
-            "src": ""
-          },
-          "button": {
-            "link": ""
-          },
-          "column": "right",
-          "id": null
-        }
-      ]
+      "columnAds": []
     }
   ]
 }
