@@ -16,7 +16,11 @@
     "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
   },
   "dependencies": {
-    "@openeventkit/event-site": "2.0.87",
+    "@openeventkit/event-site": "2.0.90",
     "gatsby": "5.8.1"
+  },
+  "resolutions": {
+    "@react-pdf/image": "2.2.3",
+    "@react-pdf/pdfkit": "3.0.4"
   }
 }

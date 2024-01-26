@@ -27,7 +27,7 @@
     "display": true,
     "text": "Event Kickoff"
   },
-  "leftColumn": {
+  "widgets": {
     "schedule": {
       "display": false,
       "title": "Full Event Schedule"
@@ -37,47 +37,54 @@
     },
     "image": {
       "title": "Image"
+    },
+    "text": {
+      "display": false,
+      "content": ""
     }
   },
-  "masonry": [
-    {
-      "placement": "Top Left",
-      "size": 2,
-      "images": [
-        {
-          "src": "tier1-default-space3.png"
-        },
-        {
-          "src": "tier1-default-space4.png"
-        }
-      ]
-    },
-    {
-      "placement": "Top Right",
-      "size": 1,
-      "images": [
-        {
-          "src": "tier1-default-space1.png"
-        }
-      ]
-    },
-    {
-      "placement": "Bottom Left",
-      "size": 1,
-      "images": [
-        {
-          "src": "tier1-default-space2.png"
-        }
-      ]
-    },
-    {
-      "placement": "Bottom Right",
-      "size": 2,
-      "images": [
-        {
-          "src": "tier1-default-space4.png"
-        }
-      ]
-    }
-  ]
+  "masonry": {
+    "display": false,
+    "items": [
+      {
+        "placement": "Top Left",
+        "size": 2,
+        "images": [
+          {
+            "src": "tier1-default-space3.png"
+          },
+          {
+            "src": "tier1-default-space4.png"
+          }
+        ]
+      },
+      {
+        "placement": "Top Right",
+        "size": 1,
+        "images": [
+          {
+            "src": "tier1-default-space1.png"
+          }
+        ]
+      },
+      {
+        "placement": "Bottom Left",
+        "size": 1,
+        "images": [
+          {
+            "src": "tier1-default-space2.png"
+          }
+        ]
+      },
+      {
+        "placement": "Bottom Right",
+        "size": 2,
+        "images": [
+          {
+            "src": "tier1-default-space4.png"
+          }
+        ]
+      }
+    ]
+  }
 }
