@@ -20,7 +20,7 @@
     },
     {
       "title": "Who We Are",
-      "link": "http://openinfra.dev/",
+      "link": "/a/who-we-are/",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
