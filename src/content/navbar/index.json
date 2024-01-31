@@ -29,6 +29,16 @@
       "display": true
     },
     {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Travel Information",
+      "link": "/travel-information",
+      "display": true
+    },
+    {
       "title": "Who We Are",
       "link": "/who-we-are",
       "display": true,
