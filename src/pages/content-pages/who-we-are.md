@@ -3,6 +3,18 @@ templateKey: content-page
 title: Who we are
 userRequirement: NONE
 ---
-YOU DECIDE!
+[The OpenInfra Summit](https://openinfra.dev/summit/) is community-powered! To build the next decade of open infrastructure, OpenInfra Summits will be developed by the community for the community. 
 
-Have a vision or mission statement you’d like to share? Maybe a photo gallery of your leadership or internal event team? This is the perfect place to pop it in! Want this to be something totally different? No worries. You hold the keys to the top navigation; we can make it whatever you want it to be!
+The Community-Powered OpenInfra Summit is being piloted by the OpenInfra Korea User Group in collaboration with fellow organizers from various countries in Asia.
+
+Meet the OpenInfra Korea Community Organizers
+
+\[Insert Picture]
+
+List the names of all the organizers
+
+Meet the OpenInfra Asia Community Organizers
+
+List the names of all the organizers
+
+\[Insert Pictures from various community meetups]
