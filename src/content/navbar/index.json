@@ -36,6 +36,16 @@
       "title": "Code of Conduct",
       "link": "https://openinfra.dev/legal/code-of-conduct/events",
       "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Sponsors",
+      "link": "/sponsors",
+      "display": true
     }
   ]
 }
