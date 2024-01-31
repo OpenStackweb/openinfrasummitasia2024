@@ -20,7 +20,7 @@
     },
     {
       "title": "Who We Are",
-      "link": "/a/who-we-are/",
+      "link": "/who-we-are",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
