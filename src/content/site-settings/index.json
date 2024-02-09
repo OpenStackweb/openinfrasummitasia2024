@@ -1,54 +1,11 @@
 {
-  "widgets": {
-    "chat": {
-      "showQA": false,
-      "showHelp": false,
-      "defaultScope": "page",
-      "enabled": false
-    },
-    "schedule": {
-      "allowClick": true
-    }
-  },
-  "lastBuild": 1684857645226,
-  "staticJsonFilesBuildTime": [
-    {
-      "file": "src/data/summit.json",
-      "build_time": 1684857641094
-    },
-    {
-      "file": "src/data/events.json",
-      "build_time": 1684857643502
-    },
-    {
-      "file": "src/data/events.idx.json",
-      "build_time": 1684857643504
-    },
-    {
-      "file": "src/data/speakers.json",
-      "build_time": 1684857644269
-    },
-    {
-      "file": "src/data/speakers.idx.json",
-      "build_time": 1684857644270
-    },
-    {
-      "file": "src/data/voteable-presentations.json",
-      "build_time": 1684857645226
-    }
-  ],
-  "favicons": {
-    "favicon180": "/img/favicon.png",
-    "favicon32": "/img/favicon.png",
-    "favicon16": "/img/favicon.png"
+  "favicon": {
+    "asset": "openstackicon.png"
   },
   "siteMetadata": {
     "title": "OpenInfra Summit Asia 2024 - Register Now",
     "description": "The OpenInfra community, a global collaboration of 110,000 people across 187 countries, builds and operates infrastructure powered by open source software. Join us!",
     "image": "https://openinfra.dev/static/c2f397ff5ff9f9f9dd2edbf357656146/OpenInfra-icon-white.jpg"
-  },
-  "favicon": {
-    "asset": "openstackicon.png"
   },
   "siteFont": {
     "regularFont": {
@@ -60,5 +17,77 @@
       "fontFormat": "ttf"
     },
     "fontFamily": "ROBOTO"
-  }
+  },
+  "identityProviderButtons": [
+    {
+      "buttonColor": "#082238",
+      "providerLabel": "Sign in with OpenInfraID",
+      "providerLogo": "openstackicon.png",
+      "providerLogoSize": 18
+    },
+    {
+      "buttonColor": "#0A66C2",
+      "providerLabel": "Sign in with LinkedIn",
+      "providerParam": "linkedin",
+      "providerLogo": "logo_linkedin.svg",
+      "providerLogoSize": 17
+    },
+    {
+      "buttonColor": "#000000",
+      "buttonBorderColor": "",
+      "providerLabel": "Sign in with Apple",
+      "providerParam": "apple",
+      "providerLogoSize": 17,
+      "providerLogo": "logo_apple.svg"
+    },
+    {
+      "buttonColor": "#1877F2",
+      "providerLabel": "Login with Facebook",
+      "providerParam": "facebook",
+      "providerLogo": "logo_facebook.svg",
+      "providerLogoSize": 19
+    }
+  ],
+  "widgets": {
+    "chat": {
+      "showQA": false,
+      "showHelp": false,
+      "defaultScope": "page",
+      "enabled": false
+    },
+    "schedule": {
+      "allowClick": true
+    }
+  },
+  "staticJsonFilesBuildTime": [
+    {
+      "file": "src/data/summit.json",
+      "build_time": 1707512205035
+    },
+    {
+      "file": "src/data/events.json",
+      "build_time": 1707512206097
+    },
+    {
+      "file": "src/data/events.idx.json",
+      "build_time": 1707512206098
+    },
+    {
+      "file": "src/data/speakers.json",
+      "build_time": 1707512207012
+    },
+    {
+      "file": "src/data/speakers.idx.json",
+      "build_time": 1707512207012
+    },
+    {
+      "file": "src/content/sponsors.json",
+      "build_time": 1707512207735
+    },
+    {
+      "file": "src/data/voteable-presentations.json",
+      "build_time": 1707512208493
+    }
+  ],
+  "lastBuild": 1707512208493
 }
