@@ -17,6 +17,4 @@ Need assistance getting to the OpenInfra Summit Asia | OCP Regional Summit APAC?
 
 Want to support the OpenInfra Travel Support Program? Donations made are directly used to fund active contributors to OpenInfra events around the world. The OpenInfra Foundation will work with the organizers to allocate the funding. [Donate here](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)!
 
-**Have Questions?**
-
-Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers [here](http://summit@openinfra.dev).
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers [here](mailto:events@openinfra.dev).
