@@ -7,7 +7,7 @@
     "buttons": {
       "registerButton": {
         "text": "Register Now",
-        "display": false
+        "display": true
       },
       "loginButton": {
         "text": "Log In",
