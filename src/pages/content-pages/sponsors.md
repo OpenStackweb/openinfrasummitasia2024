@@ -7,7 +7,7 @@ userRequirement: NONE
 
 The generous support of sponsors make it possible for the community to gather, learn and build the future of open data centers worldwide. Having a presence at the OpenInfra Summit Asia | OCP Regional Summit APAC is a great way to get your company in front of the open source software and hardware communities.
 
-Sponsorships for the OpenInfra Summit Asia | OCP Regional Summit APAC are now live! Learn more [here](https://openinfra.dev/events/sponsorship).
+Sponsorships for the OpenInfra Summit Asia | OCP Regional Summit APAC are now live! Learn more [here](https://openinfra.dev/events/sponsorship/#OpenInfraSummit-OCPRegionalSummit).
 
 A warm thank you to the sponsors of the OpenInfra Summit Asia | OCP Regional Summit APAC 2024!
 
