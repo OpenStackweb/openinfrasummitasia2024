@@ -13,8 +13,8 @@
       "fontFormat": null
     },
     "boldFont": {
-      "fontFile": "/static/fonts/robotocondensed-bold.ttf",
-      "fontFormat": "ttf"
+      "fontFile": "",
+      "fontFormat": null
     },
     "fontFamily": ""
   },
