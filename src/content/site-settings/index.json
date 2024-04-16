@@ -9,14 +9,14 @@
   },
   "siteFont": {
     "regularFont": {
-      "fontFile": "/static/fonts/robotocondensed-bold.ttf",
-      "fontFormat": "ttf"
+      "fontFile": "",
+      "fontFormat": null
     },
     "boldFont": {
       "fontFile": "/static/fonts/robotocondensed-bold.ttf",
       "fontFormat": "ttf"
     },
-    "fontFamily": "ROBOTO"
+    "fontFamily": ""
   },
   "identityProviderButtons": [
     {
