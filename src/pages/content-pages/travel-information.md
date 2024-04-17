@@ -13,7 +13,7 @@ More information coming soon!
 
 ### Travel Support Program
 
-Need assistance getting to the OpenInfra Summit Asia | OCP Regional Summit APAC? We can help! If you are a key contributor to open infrastructure and your company does not cover the costs of your travel and accommodation, you can apply for the Travel Support Program. The application will be opening soon. 
+Need assistance getting to the OpenInfra Summit Asia | OCP Regional Summit APAC? We can help! If you are a key contributor to open infrastructure and your company does not cover the costs of your travel and accommodation, you can apply for the Travel Support Program. The application [is available here](https://openinfrafoundation.formstack.com/forms/openinfra_tsp). 
 
 Want to support the OpenInfra Travel Support Program? Donations made are directly used to fund active contributors to OpenInfra events around the world. The OpenInfra Foundation will work with the organizers to allocate the funding. [Donate here](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)!
 
