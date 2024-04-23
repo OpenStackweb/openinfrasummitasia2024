@@ -3,8 +3,8 @@
     {
       "title": "Home",
       "link": "/",
-      "display": false,
-      "requiresAuth": true,
+      "display": true,
+      "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
@@ -17,6 +17,15 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "CFP",
+      "link": "https://openinfrafoundation.formstack.com/forms/openinfra_asia_summit_2024"
     },
     {
       "requiresAuth": false,
