@@ -25,7 +25,8 @@
         "ANY"
       ],
       "title": "CFP",
-      "link": "https://openinfrafoundation.formstack.com/forms/openinfra_asia_summit_2024"
+      "link": "https://openinfrafoundation.formstack.com/forms/openinfra_asia_summit_2024",
+      "display": true
     },
     {
       "requiresAuth": false,
