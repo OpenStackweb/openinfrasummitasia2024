@@ -7,11 +7,13 @@ userRequirement: NONE
 
 The OpenInfra Summit Asia | OCP Regional Summit APAC is being hosted at the [Suwon Convention Center](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6). Learn more about the venue [here](https://www.scc.or.kr/site-map/).
 
-### OpenInfra Summit Asia | OCP Regional Summit APAC Hotels & Transportation
+#### Hotels & Transportation
 
 More information coming soon! 
 
-### [Travel Support Program](https://openinfrafoundation.formstack.com/forms/openinfra_tsp)
+#### [Travel Support Program](https://openinfrafoundation.formstack.com/forms/openinfra_tsp)
+
+**[Apply for Travel Support](https://openinfrafoundation.formstack.com/forms/openinfra_tsp) | [Donate to Travel Support](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)**
 
 Need assistance getting to the OpenInfra Summit Asia | OCP Regional Summit APAC? We can help! If you are a key contributor to open infrastructure and your company does not cover the costs of your travel and accommodation, you can apply for the Travel Support Program. The application [is available here](https://openinfrafoundation.formstack.com/forms/openinfra_tsp). 
 
