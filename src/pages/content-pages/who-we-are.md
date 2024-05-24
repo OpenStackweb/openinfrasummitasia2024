@@ -8,14 +8,16 @@ The OpenInfra Summit Asia and OCP Regional Summit APAC is a community-powered, n
 The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being piloted by the OpenInfra and OCP Korea community organizers in collaboration with fellow organizers from various countries in Asia.
 
 <Grid>
-  <SpeakerCard name=""Seongsoo Cho role="OpenInfra Korea Organizer">
+  </SpeakerCard>
+  <SpeakerCard name="Seongsoo Cho" role="OpenInfra Korea">
+  </SpeakerCard>
 
 ![Seongsoo Cho](seongsoo_cho.jpeg)
 
   </SpeakerCard>
-  <SpeakerCard name="Aryulianto Saputro" role="OpenInfra Indonesia Organizer">
+  <SpeakerCard name="Aryulianto Saputro" role="OpenInfra Indonesia">
+  </SpeakerCard>
 
 ![](saputro-aryulianto.jpeg)
-
 
 </Grid>
