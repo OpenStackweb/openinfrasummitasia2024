@@ -34,16 +34,6 @@
       "pageRestriction": [
         "ANY"
       ],
-      "title": "Schedule",
-      "link": "https://2024.openinfraasia.org/schedule/",
-      "display": true
-    },
-    {
-      "requiresAuth": false,
-      "showOnlyAtShowTime": false,
-      "pageRestriction": [
-        "ANY"
-      ],
       "title": "Sponsors",
       "link": "/sponsors",
       "display": true
