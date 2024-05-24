@@ -5,11 +5,13 @@ userRequirement: NONE
 ---
 The OpenInfra Summit Asia | OCP Regional Summit APAC is being hosted at the [Suwon Convention Center](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6). Learn more about the venue [here](https://www.scc.or.kr/site-map/).
 
-
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Hotels & Transportation
 
 More information coming soon! 
+
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Travel Support Program
 
@@ -19,6 +21,6 @@ Need assistance getting to the OpenInfra Summit Asia | OCP Regional Summit APAC?
 
 Want to support the OpenInfra Travel Support Program? Donations made are directly used to fund active contributors to OpenInfra events around the world. The OpenInfra Foundation will work with the organizers to allocate the funding. [Donate here](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)!
 
-
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers [here](mailto:support@openinfradays.kr).
