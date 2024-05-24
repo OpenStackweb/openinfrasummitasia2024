@@ -14,7 +14,7 @@ Sponsorships for the OpenInfra Summit Asia | OCP Regional Summit APAC are now li
 Steps to being a sponsor:
 
 1. Take a look at the [sponsorship opportunities](https://openinfra.dev/events/sponsorship#OpenInfraSummit-OCPRegionalSummit).
-2. Contact the organizers at sponsor@openinfradays.kr[](mailto:sponsor@openinfradays.kr)
+2. Contact the organizers at [sponsor@openinfradays.kr](mailto:sponsor@openinfradays.kr)
 3. Sign the contract provided by the organizers.
 4. Enjoy the OpenInfra Summit Asia | OCP Regional Summit APAC!
 
@@ -26,4 +26,4 @@ Steps to being a sponsor:
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers [here](mailto:support@openinfradays.kr).
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers here.
