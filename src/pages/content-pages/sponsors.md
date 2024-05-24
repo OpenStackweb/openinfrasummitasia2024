@@ -15,8 +15,9 @@ Steps to being a sponsor:
 
 1. Take a look at the [sponsorship opportunities](https://openinfra.dev/events/sponsorship#OpenInfraSummit-OCPRegionalSummit).
 2. Contact the organizers at [sponsor@openinfradays.kr](mailto:sponsor@openinfradays.kr)
-3. Sign the contract provided by the organizers.
-4. Enjoy the OpenInfra Summit Asia | OCP Regional Summit APAC!
+3. The deadline to sponsor is August 9, 2024
+4. Sign the contract provided by the organizers.
+5. Enjoy the OpenInfra Summit Asia | OCP Regional Summit APAC!
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
