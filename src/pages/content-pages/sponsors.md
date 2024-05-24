@@ -37,7 +37,6 @@ Steps to being a sponsor:
 
 </Grid>
 
-
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers here.
