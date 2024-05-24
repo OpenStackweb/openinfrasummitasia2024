@@ -24,15 +24,6 @@ Steps to being a sponsor:
 
 ### Platinum Sponsors
 
-<Grid
-  minWidth={300}
-  style={{
-    placeItems: "center",
-    paddingTop: "40px",
-    paddingBottom: "40px"
-  }}
->
-
 ![RedHat](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/companies/main_logo/RedHat-lg.png)
 
 </Grid>
