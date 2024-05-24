@@ -18,6 +18,6 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
   <SpeakerCard name="Aryulianto Saputro" role="OpenInfra Indonesia">
   </SpeakerCard>
 
-![](saputro-aryulianto.jpeg)
+![Aryulianto Saputro](saputro-aryulianto.jpeg)
 
 </Grid>
