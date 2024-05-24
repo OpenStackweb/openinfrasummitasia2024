@@ -22,7 +22,7 @@ Steps to being a sponsor:
 
 #### Meet Our Incredible Sponsors!
 
-###### PLATINUM SPONSORS
+### Platinum Sponsors
 
 <Grid
   minWidth={300}
@@ -31,10 +31,12 @@ Steps to being a sponsor:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
+>
 
 ![RedHat](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/companies/main_logo/RedHat-lg.png)
 
 </Grid>
+
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
