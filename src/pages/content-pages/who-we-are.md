@@ -9,20 +9,21 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 
 ### OpenInfra Summit Asia Organizers
 
-<Grid>
-  <SpeakerCard name="Rico Lin">
+<table>
+  <tr><td>
 
 ![Rico Lin](ricolin.jpg)
 
-  </SpeakerCard>
-  <SpeakerCard name="Seongsoo Cho">
+  </td>
+  <td name="Seongsoo Cho">
 
 ![Seongsoo Cho](seongsoo-cho.png)
 
-  </SpeakerCard>
-  <SpeakerCard name="Sapturo Aryulianto">
+  </td>
+  <td name="Sapturo Aryulianto">
 
 ![Sapturo Aryulianto](saputro-aryulianto.jpeg)
 
-  </SpeakerCard>
-</Grid>
+  </td>
+</tr>
+</table>
