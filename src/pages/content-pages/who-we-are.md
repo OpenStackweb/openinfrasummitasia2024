@@ -9,67 +9,65 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 
 ### Meet the OpenInfra Summit Asia Organizers
 
-<table>
-  <tr><td>
+<Grid>
+  <SpeakerCard name="Rico Lin">
 
 ![Rico Lin](ricolin.jpg)
 
-  <br/>Rico Lin</td>
-  <td name="Seongsoo Cho">
+  </SpeakerCard>
+  <SpeakerCard name="Seongsoo Cho">
 
 ![Seongsoo Cho](seongsoo-cho.png)
 
-  <br/>Seongsoo Cho</td>
-  <td name="Sapturo Aryulianto">
+  </SpeakerCard>
+  <SpeakerCard name="Sapturo Aryulianto">
 
 ![Sapturo Aryulianto](saputro-aryulianto.jpeg)
 
-  <br/>Sapturo Aryulianto</td>
-</tr>
-</table>
+  </SpeakerCard>
+</Grid>
 
 ### Meet the Programming Committee
 
-<table>
-  <tr>
-  <td name="Horace Li">
+<Grid>
+  <SpeakerCard name="Horace Li">
 
 ![Horace Li](horace-li.jpg)
 
-  </td>
-  <td name="Lifu">
+  </SpeakerCard>
+  <SpeakerCard name="Lifu">
 
 ![Lifu](lifupannanjing.jpg)
 
-  </td><td>
+  </SpeakerCard>
+  <SpeakerCard name="Rico Lin">
 
 ![Rico Lin](ricolin.jpg)
 
-  </td>
-  <td name="Seongsoo Cho">
+  </SpeakerCard>
+  <SpeakerCard name="Seongsoo Cho">
 
 ![Seongsoo Cho](seongsoo-cho.png)
 
-  </td>
-  <td name="Sapturo Aryulianto">
+  </SpeakerCard>
+  <SpeakerCard name="Sapturo Aryulianto">
 
 ![Sapturo Aryulianto](saputro-aryulianto.jpeg)
 
-  </td>
-  <td name="Tovin - Nguyen Trong Vinh">
+  </SpeakerCard>
+  <SpeakerCard name="Tovin - Nguyen Trong Vinh">
 
 ![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg)
 
-  </td>
-  <td name="Qihui Zhao">
+  </SpeakerCard>
+  <SpeakerCard name="Qihui Zhao">
 
 ![Qihui Zhao](qihui-zhao-2-.jpg)
 
-  </td>
-  <td name="Wenhai Li">
+  </SpeakerCard>
+  <SpeakerCard name="Wenhai Li">
 
 ![Wenhai Li](wenhaili.jpg)
 
-  </td>
-</tr>
-</table>
+  </SpeakerCard>
+</Grid>
