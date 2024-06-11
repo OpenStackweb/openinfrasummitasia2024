@@ -10,9 +10,9 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ### Meet the OpenInfra Summit Asia Organizers
 
 <Grid>
-  <SpeakerCard name="Aryulianto Sapturo">
+  <SpeakerCard name="Saputro Aryulianto">
 
-![Aryulianto Sapturo](saputro-aryulianto.jpeg)
+![Saputro Aryulianto](saputro-aryulianto.jpeg)
 
   </SpeakerCard>
   <SpeakerCard name="Horace Li">
@@ -35,9 +35,9 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ### Meet the Programming Committee
 
 <Grid>
-  <SpeakerCard name="Aryulianto Sapturo">
+  <SpeakerCard name="Saputro Aryulianto">
 
-![Aryulianto Sapturo](saputro-aryulianto.jpeg)
+![Saputro Aryulianto](saputro-aryulianto.jpeg)
 
   </SpeakerCard>
   <SpeakerCard name="Fupan Li">
