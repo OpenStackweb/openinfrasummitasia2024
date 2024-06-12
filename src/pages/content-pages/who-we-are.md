@@ -20,6 +20,12 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ![Horace Li](horace-li.jpg)
 
   </SpeakerCard>
+  <SpeakerCard name="Jaesong Shin">
+
+![Jeasong Shin](jaeseong-shin.jpg)
+
+  </SpeakerCard>
+
   <SpeakerCard name="Rico Lin">
 
 ![Rico Lin](ricolin.jpg)
@@ -58,6 +64,11 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
   <SpeakerCard name="Seongsoo Cho">
 
 ![Seongsoo Cho](seongsoo-cho.png)
+
+  </SpeakerCard>
+  <SpeakerCard name="Shintaro Mizuno">
+
+![Shintaro Mizun](shintaro-mizuno-pic.jpg)
 
   </SpeakerCard>
   <SpeakerCard name="Tovin - Nguyen Trong Vinh">
