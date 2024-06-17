@@ -35,32 +35,29 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ![Jeasong Shin](jaeseong-shin.jpg)
 
   </SpeakerCard>
-  <SpeakerCard name="Jaesong Shin">
-
-![Jeasong Shin](jaeseong-shin.jpg)
-
-  </SpeakerCard> 
-
 <SpeakerCard name="Jeffgy Kim">
 
 ![Jeffgy Kim](jeffgy-kim.jpg)
 
-  </SpeakerCard><SpeakerCard name="Lee Won Gyeong">
+  </SpeakerCard>
+<SpeakerCard name="Lee Won Gyeong">
 
 ![Lee Won Gyeong](lee-won-gyeong.jpg)
 
   </SpeakerCard>
-  <SpeakerCard name="Seongsoo Cho">
+ <SpeakerCard name="Seongsoo Cho">
 
 ![Seongsoo Cho](seongsoo-cho.png)
 
-  </SpeakerCard>
+ </SpeakerCard>
 
 <SpeakerCard name="Yeji Choi">
 
 ![Yeji Choi](yeji-choi.jpg)
 
-  </SpeakerCard><SpeakerCard name="Yonsoo LIM">
+  </SpeakerCard>
+
+<SpeakerCard name="Yonsoo LIM">
 
 ![Yonsoo LIM](yoonsoo-lim.jpg)
 
