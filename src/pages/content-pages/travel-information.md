@@ -9,6 +9,12 @@ View the venue on a map [here](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6).
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+#### Visa
+
+To check if you need Visa to visit South Korea, Visit Visa Navigator on [visa.go.kr](visa.go.kr).
+
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 #### Hotels & Transportation
 
 More information coming soon! 
