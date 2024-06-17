@@ -10,9 +10,9 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ### Meet the OpenInfra Summit Asia Organizers
 
 <Grid>
-  <SpeakerCard name="Saputro Aryulianto">
+  <SpeakerCard name="Aryulianto Saputro">
 
-![Saputro Aryulianto](saputro-aryulianto.jpeg)
+![Aryulianto Saputro](saputro-aryulianto.jpeg)
 
   </SpeakerCard>
   <SpeakerCard name="Hocheol Sun">
