@@ -77,6 +77,16 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ![Fupan Li](lifupannanjing.jpg)
 
   </SpeakerCard>
+  <SpeakerCard name="Goutham Pacha Ravi">
+
+![Goutham Pacha Ravi](goutham-pacha-ravi.png)
+
+  </SpeakerCard>
+<SpeakerCard name="Jeffgy Kim">
+
+![Jeffgy Kim](jeffgy-kim2.jpg)
+
+  </SpeakerCard>
   <SpeakerCard name="Horace Li">
 
 ![Horace Li](horace-li.jpg)
