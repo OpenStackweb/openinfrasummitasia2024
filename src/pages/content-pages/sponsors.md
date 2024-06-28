@@ -33,6 +33,14 @@ Steps to being a sponsor:
 
 </Grid>
 
+### Startup Sponsors
+
+<Grid>
+
+![RedHat](grometric-sm.png)
+
+</Grid>
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers here.
