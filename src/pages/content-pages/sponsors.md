@@ -37,7 +37,7 @@ Steps to being a sponsor:
 
 <Grid>
 
-![RedHat](grometric-sm.png)
+![GroMetric](grometric-sm.png)
 
 </Grid>
 
