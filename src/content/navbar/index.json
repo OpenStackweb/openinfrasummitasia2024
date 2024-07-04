@@ -24,9 +24,19 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "한국 거주자 개인 티켓 구매",
+      "link": "https://openinfra.cafe24.com/surl/O/18",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "CFP",
       "link": "https://openinfrafoundation.formstack.com/forms/openinfra_asia_summit_2024",
-      "display": true
+      "display": false
     },
     {
       "requiresAuth": false,
