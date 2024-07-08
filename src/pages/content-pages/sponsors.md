@@ -33,11 +33,28 @@ Steps to being a sponsor:
 
 </Grid>
 
+### Silver Sponsors
+
+<Grid>
+
+![GroMetric](nhncloud-lg.png)
+
+</Grid>
+
 ### Startup Sponsors
 
 <Grid>
 
 ![GroMetric](grometric-sm.png)
+
+</Grid>
+
+
+### Community Sponsors
+
+<Grid>
+
+![GroMetric](nhncloud-sm.png)
 
 </Grid>
 
