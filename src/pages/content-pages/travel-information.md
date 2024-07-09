@@ -13,6 +13,8 @@ View the venue on a map [here](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6).
 
 To check if you need Visa to visit South Korea, Visit Visa Navigator on [visa.go.kr](https://visa.go.kr/).
 
+If you need a visa invitation letter to attend the event, please [follow this link](https://openstack.dooray.com/share/pages/fQ5wJlvuRZuRWuKZIvMARw).
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Hotels & Transportation
@@ -23,7 +25,7 @@ More information coming soon!
 
 #### Travel Support Program
 
-**[](https://openinfrafoundation.formstack.com/forms/openinfra_tsp)[Donate to Travel Support](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)**
+[](https://openinfrafoundation.formstack.com/forms/openinfra_tsp)**[Donate to Travel Support](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)**
 
 Want to support the OpenInfra Travel Support Program? Donations made are directly used to fund active contributors to OpenInfra events around the world. The OpenInfra Foundation will work with the organizers to allocate the funding. [Donate here](https://donate.stripe.com/8wMbLU6Qh8v8fVC9AE)!
 
