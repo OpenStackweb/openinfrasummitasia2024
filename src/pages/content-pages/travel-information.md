@@ -11,7 +11,7 @@ View the venue on a map [here](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6).
 
 #### Visa
 
-To check if you need Visa to visit South Korea, Visit Visa Navigator on [visa.go.kr](https://visa.go.kr/).
+To check if you need visa to visit South Korea, Visit Visa Navigator on [visa.go.kr](https://visa.go.kr/).
 
 If you need a visa invitation letter to attend the event, please [follow this link](https://openstack.dooray.com/share/pages/fQ5wJlvuRZuRWuKZIvMARw).
 
