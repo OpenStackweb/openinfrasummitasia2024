@@ -19,7 +19,7 @@ If you need a visa invitation letter to attend the event, please [follow this li
 
 #### Hotels & Transportation
 
-More information coming soon! 
+Find more infomration on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/). 
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
