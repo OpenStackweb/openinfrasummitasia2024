@@ -13,13 +13,15 @@ View the venue on a map [here](https://maps.app.goo.gl/bn52sGkFrqcT3dpX6).
 
 To check if you need visa to visit South Korea, Visit Visa Navigator on [visa.go.kr](https://visa.go.kr/).
 
-If you need a visa invitation letter to attend the event, please [follow this link](https://openstack.dooray.com/share/pages/fQ5wJlvuRZuRWuKZIvMARw).
+If you need a visa invitation letter to attend the Courtyard by Marriott Suwon (the closest hotel to the venue), please [follow this link](https://openstack.dooray.com/share/pages/fQ5wJlvuRZuRWuKZIvMARw).
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Hotels & Transportation
 
 Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/). 
+
+If you would like to stay at the [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
