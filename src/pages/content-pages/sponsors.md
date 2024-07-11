@@ -39,7 +39,7 @@ Steps to being a sponsor:
 
 <Grid>
 
-![CEJN](cejnsm2.png)
+![CEJN](cejnsizeadjust.png)
 
 ![NHNCloud](nhncloud-lg.png)
 
