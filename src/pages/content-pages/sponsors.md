@@ -31,13 +31,19 @@ Steps to being a sponsor:
 
 ![RedHat](redhat-lg.png)
 
+![Mirantis](mirantis-lg.png)
+
 </Grid>
 
 ### Silver Sponsors
 
 <Grid>
 
-![GroMetric](nhncloud-lg.png)
+![CEJN](cejnsm2.png)
+
+![NHNCloud](nhncloud-lg.png)
+
+![Seagate](seagate-sm.png)
 
 </Grid>
 
@@ -48,7 +54,6 @@ Steps to being a sponsor:
 ![GroMetric](grometric-sm.png)
 
 </Grid>
-
 
 ### Community Sponsors
 
