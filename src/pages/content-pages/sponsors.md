@@ -31,7 +31,7 @@ Steps to being a sponsor:
 
 ![RedHat](redhat-lg.png)
 
-![Mirantis](mirantis-lg-hrz.png)
+![Mirantis](mirantis-sm-hrz.png)
 
 </Grid>
 
