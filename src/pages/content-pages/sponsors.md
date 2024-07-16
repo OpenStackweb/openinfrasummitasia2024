@@ -35,6 +35,14 @@ Steps to being a sponsor:
 
 </Grid>
 
+### Gold Sponsors
+
+<Grid>
+
+![nipa](nipa-lg.png)
+
+</Grid>
+
 ### Silver Sponsors
 
 <Grid>
