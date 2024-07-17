@@ -73,4 +73,4 @@ Steps to being a sponsor:
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers here.
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
