@@ -63,6 +63,16 @@ Steps to being a sponsor:
 
 </Grid>
 
+### Foundation Sponsors
+
+<Grid>
+
+![OpenInfra Foundation](openinfra-lg.png)
+
+![OCP](ocplogo.png)
+
+</Grid>
+
 ### Community Sponsors
 
 <Grid>
