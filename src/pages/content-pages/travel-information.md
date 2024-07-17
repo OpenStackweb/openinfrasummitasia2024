@@ -15,6 +15,8 @@ To check if you need visa to visit South Korea, Visit Visa Navigator on [visa.go
 
 If you need a visa invitation letter to attend the event, please [follow this link](https://openstack.dooray.com/share/pages/fQ5wJlvuRZuRWuKZIvMARw).
 
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [visa@openinfradays.kr](mailto:support@openinfradays.kr).
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Hotels & Transportation
