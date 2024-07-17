@@ -23,6 +23,8 @@ Find more information on travel accommodations including hotels & tours at the [
 
 If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
 
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).[](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Travel Support Program
@@ -33,4 +35,4 @@ Want to support the OpenInfra Travel Support Program? Donations made are directl
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers here.
+**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
