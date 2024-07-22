@@ -9,6 +9,10 @@
         "text": "Register Now",
         "display": true
       },
+      "registerkoreaButton": {
+        "text": "한국 거주자 개인 티켓 구매",
+        "display": true
+      },
       "loginButton": {
         "text": "Log In",
         "display": false
