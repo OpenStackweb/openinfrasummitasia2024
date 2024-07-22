@@ -218,6 +218,10 @@ collections:
                   {label: "Text", name: "text", widget: string},
                   {label: "Display", name: "display", widget: boolean, required: false},
                 ]},
+                {label: "Register Button", name: "registerkoreaButton", widget: object, fields: [
+                  {label: "Text", name: "text", widget: string},
+                  {label: "Display", name: "display", widget: boolean, required: false},
+                ]},
                 {label: "Login Button", name: "loginButton", widget: object, fields: [
                   {label: "Text", name: "text", widget: string},
                   {label: "Display", name: "display", widget: boolean, required: false},
