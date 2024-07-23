@@ -26,7 +26,7 @@
       ],
       "title": "한국 거주자 개인 티켓 구매",
       "link": "https://openinfra.cafe24.com/surl/O/18",
-      "display": true
+      "display": false
     },
     {
       "requiresAuth": false,
