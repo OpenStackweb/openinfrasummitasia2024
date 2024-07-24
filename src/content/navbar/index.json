@@ -64,6 +64,16 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "Sign up for Hands-On Labs",
+      "link": "https://2024.openinfraasia.org/a/schedule#view=calendar&track=486",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "Travel Information",
       "link": "/travel-information",
       "display": true
