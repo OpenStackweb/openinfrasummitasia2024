@@ -25,6 +25,14 @@ Steps to being a sponsor:
 
 #### Meet Our Incredible Sponsors!
 
+### Diamond Sponsors
+
+<Grid>
+
+![Samsung](samsung-lg.png)
+
+</Grid>
+
 ### Platinum Sponsors
 
 <Grid>
@@ -77,7 +85,7 @@ Steps to being a sponsor:
 
 <Grid>
 
-![GroMetric](nhncloud-sm.png)
+![NHNCloud](nhncloud-sm.png)
 
 </Grid>
 
