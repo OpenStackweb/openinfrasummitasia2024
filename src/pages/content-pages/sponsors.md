@@ -37,15 +37,21 @@ Steps to being a sponsor:
 
 <Grid>
 
-![RedHat](redhat-lg.png)
+![Canonical](canonical-lg.png)
+
+![Fadu](fadu-lg.png)
 
 ![Mirantis](mirantis-sm-hrz.png)
+
+![RedHat](redhat-lg.png)
 
 </Grid>
 
 ### Gold Sponsors
 
 <Grid>
+
+![Katyus](kaytus-lg.png)
 
 ![nipa](nipa-lg.png)
 
