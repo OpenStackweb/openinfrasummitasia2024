@@ -26,11 +26,22 @@
     padding: 4rem 3rem;
   }
   .link {
-    margin-right: 15px;
+    button {
+      font-size: 13px !important;
+      text-wrap: wrap;
+    }
+  }
+  .buttonWrapper {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
   }
   .koreanButton {    
     background-color: #fff!important;
     color: #6d6e71!important;
+    i {
+      display: none;
+    }
   }
 }
 
