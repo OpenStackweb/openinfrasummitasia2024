@@ -6,11 +6,15 @@
     "time": "Suwon Convention Center, Suwon, Korea",
     "buttons": {
       "registerButton": {
-        "text": "Register Now",
+        "text": "Speaker & Sponsor Registration",
         "display": true
       },
       "registerkoreaButton": {
         "text": "한국 거주자 개인 티켓 구매",
+        "display": true
+      },
+      "registernowButton": {
+        "text": "Register Now",
         "display": true
       },
       "loginButton": {

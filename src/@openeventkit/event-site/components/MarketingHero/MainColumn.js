@@ -7,26 +7,43 @@ import IconButton from "@openeventkit/event-site/src/components/IconButton"
 import styles from "./styles.module.scss";
 
 const goToKoreanRegistration = (ev) => {
-    ev.preventDefault();
-    window.open('https://openinfra.cafe24.com/surl/O/18', '_blank', 'noopener,noreferrer');
+  ev.preventDefault();
+  window.open('https://openinfra.cafe24.com/surl/O/18', '_blank', 'noopener,noreferrer');
 }
 
-const ButtonGroup = ({ location, registerButton, loginButton, registerkoreaButton }) => (
+const goToRegisterNow = (ev) => {
+  ev.preventDefault();
+  window.open('https://openinfra.cafe24.com/shop2/surl/O/19', '_blank', 'noopener,noreferrer');
+}
+
+const ButtonGroup = ({ location, registerButton, loginButton, registerkoreaButton, registernowButton }) => (
   <>
-    {registerButton?.display && (
-      <span className={styles.link}>
-        <RegistrationLiteComponent location={location} />
-      </span>
-    )}
-    {registerkoreaButton?.display && (
+    <div className={styles.buttonWrapper}>
+      {registernowButton?.display && (
         <IconButton
-            className={styles.koreanButton}
-            iconClass="fa fa-2x"
-            buttonText={registerkoreaButton.text}
-            onClick={goToKoreanRegistration}            
+          className={styles.koreanButton}
+          iconClass="fa fa-2x"
+          buttonText={registernowButton.text}
+          onClick={goToRegisterNow}
         />
-    )}
-    {loginButton?.display && <AuthComponent location={location} />}
+      )}
+      {registerkoreaButton?.display && (
+        <IconButton
+          className={styles.koreanButton}
+          iconClass="fa fa-2x"
+          buttonText={registerkoreaButton.text}
+          onClick={goToKoreanRegistration}
+        />
+      )}
+    </div>
+    <div className={styles.buttonWrapper}>
+      {loginButton?.display && <AuthComponent location={location} />}
+      {registerButton?.display && (
+        <span className={styles.link}>
+          <RegistrationLiteComponent location={location} />
+        </span>
+      )}
+    </div>
   </>
 );
 
@@ -34,14 +51,13 @@ const MainColumn = ({ location, title, subTitle, date, time, buttons, background
   const backgroundImageStyle = backgroundSrc
     ? { backgroundImage: `url(${getSrc(backgroundSrc)})` }
     : {};
-  console.log("BUTTONS CHECK", buttons);
   return (
     <div className={`column ${!fullWidth ? "is-half" : ""} p-0 ${styles.mainColumn}`} style={backgroundImageStyle}>
       <div className={`hero-body ${styles.heroBody}`}>
         {title && <h1 className="title">{title}</h1>}
         {subTitle && <h2 className="subtitle">{subTitle}</h2>}
         {date && <h4>{date}</h4>}
-        {time && <h4>{time}</h4>}        
+        {time && <h4>{time}</h4>}
         <div className={styles.heroButtons}>
           <ButtonGroup {...buttons} location={location} />
         </div>
