@@ -29,6 +29,8 @@ Steps to being a sponsor:
 
 <Grid>
 
+![KT Cloud](ktcloud-lg.png)
+
 ![Samsung](samsung-lg.png)
 
 </Grid>
