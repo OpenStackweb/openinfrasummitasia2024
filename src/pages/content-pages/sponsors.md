@@ -25,7 +25,7 @@ Steps to being a sponsor:
 
 #### Meet Our Incredible Sponsors!
 
-### Diamond Sponsors
+### Headline Sponsors
 
 <Grid>
 
