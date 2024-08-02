@@ -35,6 +35,14 @@ Steps to being a sponsor:
 
 </Grid>
 
+### Diamond Sponsors
+
+<Grid>
+
+![Supermicro](supermicro-lg.png)
+
+</Grid>
+
 ### Platinum Sponsors
 
 <Grid>
@@ -64,6 +72,8 @@ Steps to being a sponsor:
 <Grid>
 
 ![CEJN](cejnsizeadjust.png)
+
+![OSCI](opensourceconsultinglogo-sm.jpg)
 
 ![NHNCloud](nhncloud-lg.png)
 
