@@ -79,6 +79,8 @@ Steps to being a sponsor:
 
 ![Seagate](seagate-sm.png)
 
+![Valvoline](valvoline-sm.png)
+
 </Grid>
 
 ### Startup Sponsors
