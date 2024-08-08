@@ -5,12 +5,30 @@ userRequirement: NONE
 ---
 The OpenInfra Summit Asia and OCP Regional Summit APAC is a community-powered, not-for-profit event organized in collaboration with the [OpenInfra Foundation](https://openinfra.dev/) and the [Open Compute Project Foundation](https://www.opencompute.org/) to build the next decade of open source software and hardware!
 
-The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being piloted by the OpenInfra and OCP Korea community organizers in collaboration wit
-
-
+The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being piloted by the OpenInfra and OCP Korea community organizers in collaboration with fellow organizers from various countries in Asia.
 
 ## Meet the OpenInfra Summit Asia Organizers
 
-![]()
+![Aryulianto Saputro](saputro-aryulianto.jpeg "Aryulianto Saputro")
 
-h fellow organizers from various countries in Asia.
+
+
+![Hocheol Shin](hocheol-shin.jpg "Hocheol Shin")
+
+
+
+![Horace Li](horace-li.jpg "Horace Li")
+
+![Hosu Lee](hosu-lee.jpg "Hosu Lee")
+
+![Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin")
+
+![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
+
+![Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee")
+
+![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
+
+
+
+![Yonsoo LIM](yoonsoo-lim.jpg "Yonsoo LIM")
