@@ -9,26 +9,8 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 
 ## Meet the OpenInfra Summit Asia Organizers
 
-![Aryulianto Saputro](saputro-aryulianto.jpeg "Aryulianto Saputro")
+![Aryulianto Saputro](saputro-aryulianto.jpeg "Aryulianto Saputro") ![Hocheol Shin](hocheol-shin.jpg "Hocheol Shin") ![Horace Li](horace-li.jpg "Horace Li") ![Hosu Lee](hosu-lee.jpg "Hosu Lee")
 
-
-
-![Hocheol Shin](hocheol-shin.jpg "Hocheol Shin")
-
-
-
-![Horace Li](horace-li.jpg "Horace Li")
-
-![Hosu Lee](hosu-lee.jpg "Hosu Lee")
-
-![Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin")
-
-![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
-
-![Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee")
-
-![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
-
-
+![Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin") ![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim") ![Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee") ![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
 
 ![Yonsoo LIM](yoonsoo-lim.jpg "Yonsoo LIM")
