@@ -75,7 +75,7 @@ Steps to being a sponsor:
 
 ![OSCI](opensourceconsultinglogo-sm.jpg)
 
-![NHNCloud](nhncloud-lg.png)
+![NHNCloud](nhncloud2-lg.png)
 
 ![Seagate](seagate-sm.png)
 
@@ -105,7 +105,7 @@ Steps to being a sponsor:
 
 <Grid>
 
-![NHNCloud](nhncloud-sm.png)
+![NHNCloud](nhncloud2-lg.png)
 
 </Grid>
 
