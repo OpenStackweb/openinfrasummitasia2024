@@ -10,41 +10,41 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ## Meet the OpenInfra Summit Asia Organizers
 
 <Grid>
-!\[Aryulianto Saputro](saputro-aryulianto.jpeg "Aryulianto Saputro")  Aryulianto Saputro
-!\[Hocheol Shin](hocheol-shin.jpg "Hocheol Shin") Hocheol Shin
-!\[Horace Li](horace-li.jpg "Horace Li") Horace Li
-!\[Hosu Lee](hosu-lee.jpg "Hosu Lee") Hosu Lee
+![Aryulianto Saputro](saputro-aryulianto.jpeg "Aryulianto Saputro")  Aryulianto Saputro
+![Hocheol Shin](hocheol-shin.jpg "Hocheol Shin") Hocheol Shin
+![Horace Li](horace-li.jpg "Horace Li") Horace Li
+![Hosu Lee](hosu-lee.jpg "Hosu Lee") Hosu Lee
 </Grid>
 
 <Grid>
-!\[Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin") 
-!\[Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim") 
-!\[Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee") 
-!\[Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
+![Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin") 
+![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim") 
+![Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee") 
+![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
 </Grid>
 
 <Grid>
-!\[Yonsoo LIM](yoonsoo-lim.jpg "Yonsoo LIM")
+![Yonsoo LIM](yoonsoo-lim.jpg "Yonsoo LIM")
 </Grid>
 
 ## Meet the Programming Committee
 
 <Grid>
-!\[Saputro Aryulianto](saputro-aryulianto.jpeg "Saputro Aryulianto") 
-!\[Fupan Li](lifupannanjing.jpg "Fupan Li") 
-!\[Goutham Pacha Ravi](goutham-pacha-ravi.png "Goutham Pacha Ravi") 
-!\[Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
+![Saputro Aryulianto](saputro-aryulianto.jpeg "Saputro Aryulianto") 
+![Fupan Li](lifupannanjing.jpg "Fupan Li") 
+![Goutham Pacha Ravi](goutham-pacha-ravi.png "Goutham Pacha Ravi") 
+![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
 </Grid>
 
 <Grid>
-!\[Horace Li](horace-li.jpg "Horace Li") 
-!\[Rico Lin](ricolin.jpg "Rico Lin") 
-!\[Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho") 
-!\[Shintaro Mizuno](shintaro-mizuno-pic.jpg "Shintaro Mizuno")
+![Horace Li](horace-li.jpg "Horace Li") 
+![Rico Lin](ricolin.jpg "Rico Lin") 
+![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho") 
+![Shintaro Mizuno](shintaro-mizuno-pic.jpg "Shintaro Mizuno")
 </Grid>
 
 <Grid>
-!\[Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg "Tovin - Nguyen Trong Vinh") 
-!\[Qihui Zhao](qihui-zhao-2-.jpg "Qihui Zhao") 
-!\[Wenhai Li](wenhaili.jpg "Wenhai Li")
+![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg "Tovin - Nguyen Trong Vinh") 
+![Qihui Zhao](qihui-zhao-2-.jpg "Qihui Zhao") 
+![Wenhai Li](wenhaili.jpg "Wenhai Li")
 </Grid>
