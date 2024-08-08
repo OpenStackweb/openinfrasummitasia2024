@@ -17,7 +17,7 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
   </SpeakerCard>
   <SpeakerCard name="Hocheol Sun">
 
-![Hocheol Sun](hocheol-shin.jpg)
+![Hocheol Shin](hocheol-shin.jpg)
 
   </SpeakerCard>
   <SpeakerCard name="Horace Li">
