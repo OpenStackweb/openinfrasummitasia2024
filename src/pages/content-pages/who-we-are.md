@@ -14,3 +14,11 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ![Jaesong Shin](jaeseong-shin.jpg "Jaesong Shin") ![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim") ![Wongyeong Lee](lee-won-gyeong.jpg "Wongyeong Lee") ![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho")
 
 ![Yonsoo LIM](yoonsoo-lim.jpg "Yonsoo LIM")
+
+## Meet the Programming Committee
+
+![Saputro Aryulianto](saputro-aryulianto.jpeg "Saputro Aryulianto") ![Fupan Li](lifupannanjing.jpg "Fupan Li") ![Goutham Pacha Ravi](goutham-pacha-ravi.png "Goutham Pacha Ravi") ![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
+
+![Horace Li](horace-li.jpg "Horace Li") ![Rico Lin](ricolin.jpg "Rico Lin") ![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho") ![Shintaro Mizuno](shintaro-mizuno-pic.jpg "Shintaro Mizuno")
+
+![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg "Tovin - Nguyen Trong Vinh") ![Qihui Zhao](qihui-zhao-2-.jpg "Qihui Zhao") ![Wenhai Li](wenhaili.jpg "Wenhai Li")
