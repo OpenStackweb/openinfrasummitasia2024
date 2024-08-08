@@ -10,6 +10,7 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ## Meet the OpenInfra Summit Asia Organizers
 
 <Grid>
+
 ![Aryulianto Saputro](saputro-aryulianto.jpeg)  Aryulianto Saputro
 
 ![Hocheol Shin](hocheol-shin.jpg) Hocheol Shin
@@ -17,54 +18,43 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 ![Horace Li](horace-li.jpg) Horace Li
 
 ![Hosu Lee](hosu-lee.jpg) Hosu Lee
-</Grid>
 
-<Grid>
-![Jaesong Shin](jaeseong-shin.jpg) 
+![Jaesong Shin](jaeseong-shin.jpg) Jaesong Shin
 
-![Jeffgy Kim](jeffgy-kim2.jpg) 
+![Jeffgy Kim](jeffgy-kim2.jpg) Jeffgy Kim
 
-![Wongyeong Lee](lee-won-gyeong.jpg) 
+![Wongyeong Lee](lee-won-gyeong.jpg) Wongyeong Lee
 
-![Seongsoo Cho](seongsoo-cho.png)
+![Seongsoo Cho](seongsoo-cho.png) Seongsoo Cho
 
-</Grid>
-
-<Grid>
-
-![Yonsoo LIM](yoonsoo-lim.jpg)
+![Yonsoo LIM](yoonsoo-lim.jpg) Yonsoo LIM
 
 </Grid>
 
 ## Meet the Programming Committee
 
 <Grid>
-![Saputro Aryulianto](saputro-aryulianto.jpeg "Saputro Aryulianto")
+
+![Saputro Aryulianto](saputro-aryulianto.jpeg) Saputro Aryulianto
  
-![Fupan Li](lifupannanjing.jpg "Fupan Li") 
+![Fupan Li](lifupannanjing.jpg) Fupan Li
 
-![Goutham Pacha Ravi](goutham-pacha-ravi.png "Goutham Pacha Ravi") 
+![Goutham Pacha Ravi](goutham-pacha-ravi.png) Goutham Pacha Ravi
 
-![Jeffgy Kim](jeffgy-kim2.jpg "Jeffgy Kim")
+![Jeffgy Kim](jeffgy-kim2.jpg) Jeffgy Kim
 
-</Grid>
+![Horace Li](horace-li.jpg) Horace Li
 
-<Grid>
-![Horace Li](horace-li.jpg "Horace Li") 
+![Rico Lin](ricolin.jpg) Rico Lin
 
-![Rico Lin](ricolin.jpg "Rico Lin") 
+![Seongsoo Cho](seongsoo-cho.png) Seongsoo Cho
 
-![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho") 
+![Shintaro Mizuno](shintaro-mizuno-pic.jpg) Shintaro Mizuno
 
-![Shintaro Mizuno](shintaro-mizuno-pic.jpg "Shintaro Mizuno")
+![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg) Tovin - Nguyen Trong Vinh
 
-</Grid>
+![Qihui Zhao](qihui-zhao-2-.jpg) Qihui Zhao
 
-<Grid>
-![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg "Tovin - Nguyen Trong Vinh") 
-
-![Qihui Zhao](qihui-zhao-2-.jpg "Qihui Zhao") 
-
-![Wenhai Li](wenhaili.jpg "Wenhai Li")
+![Wenhai Li](wenhaili.jpg) Wenhai Li
 
 </Grid>
