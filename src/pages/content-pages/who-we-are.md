@@ -51,13 +51,20 @@ The Community-Powered OpenInfra Summit Asia | OCP Regional Summit APAC is being 
 
 <Grid>
 ![Horace Li](horace-li.jpg "Horace Li") 
+
 ![Rico Lin](ricolin.jpg "Rico Lin") 
+
 ![Seongsoo Cho](seongsoo-cho.png "Seongsoo Cho") 
+
 ![Shintaro Mizuno](shintaro-mizuno-pic.jpg "Shintaro Mizuno")
+
 </Grid>
 
 <Grid>
 ![Tovin - Nguyen Trong Vinh](tovin-nguyen-trong-vinh.jpg "Tovin - Nguyen Trong Vinh") 
+
 ![Qihui Zhao](qihui-zhao-2-.jpg "Qihui Zhao") 
+
 ![Wenhai Li](wenhaili.jpg "Wenhai Li")
+
 </Grid>
