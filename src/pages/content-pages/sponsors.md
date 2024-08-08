@@ -107,6 +107,8 @@ Steps to being a sponsor:
 
 ![NHNCloud](nhncloud2-lg.png)
 
+![OpenSource Consulting](opensourceconsultinglogo-sm.jpg)
+
 </Grid>
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
