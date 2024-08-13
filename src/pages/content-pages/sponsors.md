@@ -9,7 +9,7 @@ userRequirement: NONE
 
 ![KT Cloud](ktcloud-lg.png)
 
-![KT Cloud](ktcloud-lg.png)
+![Huawei](huawei-lg.png)
 
 ![Huawei](huawei-lg.png)
 
