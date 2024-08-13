@@ -11,7 +11,7 @@ userRequirement: NONE
 
 ![Huawei](huawei-lg.png)
 
-![Huawei](huawei-lg.png)
+![Samsung](samsung-lg.png)
 
 </Grid>
 
