@@ -9,8 +9,6 @@ userRequirement: NONE
 
 ![KT Cloud](ktcloud-lg.png)
 
-![Huawei](huawei-lg.png)
-
 ![Samsung](samsung-lg.png)
 
 </Grid>
@@ -18,6 +16,8 @@ userRequirement: NONE
 ### Diamond Sponsors
 
 <Grid>
+
+![Huawei](huawei-lg.png)
 
 ![Supermicro](supermicro-lg.png)
 
