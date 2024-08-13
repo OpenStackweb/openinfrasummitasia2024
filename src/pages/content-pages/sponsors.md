@@ -9,7 +9,9 @@ userRequirement: NONE
 
 ![KT Cloud](ktcloud-lg.png)
 
-![Samsung](samsung-lg.png)
+![KT Cloud](ktcloud-lg.png)
+
+![Huawei](huawei-lg.png)
 
 </Grid>
 
