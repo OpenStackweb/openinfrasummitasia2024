@@ -63,7 +63,7 @@ userRequirement: NONE
 
 ![LINE](line-sm.png)
 
-![NHNCloud](nhncloud2-lg.png)
+![NHNCloud](nhn-sm.png)
 
 ![OKESTRO](okestro-sm.png)
 
@@ -97,7 +97,7 @@ userRequirement: NONE
 
 <Grid>
 
-![NHNCloud](nhncloud2-lg.png)
+![NHNCloud](nhn-sm.png)
 
 ![OpenSource Consulting](opensourceconsultinglogo-sm.jpg)
 
