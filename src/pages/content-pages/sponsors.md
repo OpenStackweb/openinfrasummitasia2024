@@ -81,9 +81,13 @@ Steps to being a sponsor:
 
 ![NHNCloud](nhncloud2-lg.png)
 
+![OKESTRO](okestro-sm.png)
+
 ![Seagate](seagate-sm.png)
 
 ![Valvoline](valvoline-sm.png)
+
+![ZConverter](zconverter-sm.png)
 
 </Grid>
 
