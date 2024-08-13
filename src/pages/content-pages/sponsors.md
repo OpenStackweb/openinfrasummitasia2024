@@ -73,6 +73,8 @@ Steps to being a sponsor:
 
 <Grid>
 
+![DevStack](devstack-sm.png)
+
 ![CEJN](cejnsizeadjust.png)
 
 ![OSCI](opensourceconsultinglogo-sm.jpg)
