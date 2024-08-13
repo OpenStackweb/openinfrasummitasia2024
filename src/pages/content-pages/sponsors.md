@@ -53,6 +53,8 @@ userRequirement: NONE
 
 <Grid>
 
+![AMD](amd-sm.jpg)
+
 ![DevStack](devstack-sm.png)
 
 ![CEJN](cejnsizeadjust.png)
