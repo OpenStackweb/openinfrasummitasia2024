@@ -61,6 +61,8 @@ Steps to being a sponsor:
 
 <Grid>
 
+![Dell](dellnew-lg.png)
+
 ![Katyus](kaytus-lg.png)
 
 ![nipa](nipa-lg.png)
@@ -74,6 +76,8 @@ Steps to being a sponsor:
 ![CEJN](cejnsizeadjust.png)
 
 ![OSCI](opensourceconsultinglogo-sm.jpg)
+
+![LINE](line-sm.png)
 
 ![NHNCloud](nhncloud2-lg.png)
 
