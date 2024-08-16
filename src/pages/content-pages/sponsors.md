@@ -91,6 +91,8 @@ userRequirement: NONE
 
 ![OCP](ocplogo.png)
 
+![CNCF](cncf-lg.png)
+
 </Grid>
 
 ### Community Sponsors
