@@ -93,9 +93,9 @@ userRequirement: NONE
 
 </Grid>
 
-![CNCF](cncf-sm.png)
-
 <Grid>
+
+![CNCF](cncf-sm.png)
 
 </Grid
 
