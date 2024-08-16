@@ -97,7 +97,7 @@ userRequirement: NONE
 
 ![CNCF](cncf-sm.png)
 
-</Grid
+</Grid>
 
 ### Community Sponsors
 
