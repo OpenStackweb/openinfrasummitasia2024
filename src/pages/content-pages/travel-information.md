@@ -32,10 +32,9 @@ If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.
 
 #### Event Extras
 
-* Monday, September 1: [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
-* Tuesday, September 2: [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
-* Tuesday, September 2:
-* Wednesday, September 3: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
+* Monday, September 2: [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
+* Tuesday, September 3: [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
+* Wednesday, September 4: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
