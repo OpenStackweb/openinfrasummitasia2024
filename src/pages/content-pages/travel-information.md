@@ -21,15 +21,6 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Travel Information
-
-* The OpenInfra Summit Asia | OCP APAC Summit will be hosted at the [Suwon Convention Center](https://www.scc.or.kr/site-map/)!
-* Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
-
-  * If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)[](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 #### Event Extras
 
 * Monday, September 2: [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
@@ -41,5 +32,12 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 * [](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)Wednesday, September 4: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### Travel Information
+
+* The OpenInfra Summit Asia | OCP APAC Summit will be hosted at the [Suwon Convention Center](https://www.scc.or.kr/site-map/)!
+* Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
+
+  * If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
 
 **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
