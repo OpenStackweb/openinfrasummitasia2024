@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Summit Onsite
+title: Travel & Onsite Info
 userRequirement: NONE
 ---
 This is where you’ll find almost anything you need while on-site at the OpenInfra Summit Asia | OCP APAC Summit!
