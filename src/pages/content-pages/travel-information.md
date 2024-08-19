@@ -82,8 +82,7 @@ Gimpo Airport(Vending machines)
 
 How to recharge your credit
 
-Credit recharges are only available in Korean Won CASH.
-
+* Credit recharges are only available in Korean Won CASH.
 * Credit can be reloaded in increments of 1000 won.
 * You can top up at convenience stores (GS25, CU, 7-Eleven, MINISTOP, Story Way, Emart24, 365PLUS).
 * Subway Station: Top-up machine including One-time ticket issuer, Tmoney vending machine, portable reload machine, Information Center
