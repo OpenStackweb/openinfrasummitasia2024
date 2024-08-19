@@ -45,7 +45,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### **Applications and Payment Methods**
+#### **Applications and Transportation Cards**
 
 [Road Name Address](https://www.juso.go.kr/openEngPage.do): Search address and translate between Korean and English language
 
