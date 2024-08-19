@@ -91,6 +91,61 @@ See [here](https://www.t-money.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) for instruction
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+#### Traveling from ICN
+
+**Taxi**
+
+* Stop locations:
+
+  * Terminal 1: Use Exits 5 or 6, cross the crosswalk and you will see the taxi stand.
+  * Terminal 2: Use Exits 3 or 4, cross the crosswalk and you will see the taxi stand.
+  * [Taxi stop location information](https://www.airport.kr/ap/en/tpt/pblcTptTaxi.do)
+* Show the driver the following or enter it in the taxi app:
+
+  * ## 수원 컨벤션 센터(경기 수원시 영통구 광교중앙로 140)
+* Travel time: approx. 1 and half hours.
+* Cost: Around 88,000 KRW(Depends on traffic)
+
+**Bus (Express Bus)**
+
+To get to the Suwon Convention Center, purchase a ticket for the express bus 8866, 8877 or N8877 and board.
+
+* [Purchase your ticket in advance](https://intercitybuse.tmoney.co.kr/) or at a bus ticket office:
+
+  * Terminal 1: You can purchase tickets and get information at the bus ticket offices indoor and outdoor on the 1st floor of Passenger Terminal 1.
+  * Terminal 2: You can purchase bus tickets and get information at ticketing offices indoors on The 2nd Transportation Center (B1)
+* Bus stop
+
+  * Terminal 1: 1 Floor No.7
+  * Terminal 2: Transportation center Basement 1 No.40
+* Boarding information(No. 8866, 8877 or N8877)
+* Travel time: approx. 2 hours
+* Cost: 10,200 KRW
+
+**Subway**
+
+* [Station location](https://www.airport.kr/ap_lp/en/tpt/pblctpt/airtrainf/airtrainf.do)
+* From Incheon Airport Railway, you will arrive at Gwanggyo Jungang Station via 2 transfers:
+
+  * Incheon Int’l Airport(Light Blue Airport Rail) -> Gimpo Airport(Ochre Line 9)
+
+    * via 7 stations(39 min).
+  * Gimpo Airport(Ochre Line 9) ->Sinnonhyeon Station(Red Line Sinbundang)
+
+    * via 23 stations(53 min).
+  * Sinnonhyeon Station(Red Line Sinbundang) -> Gwanggyo Central Station
+
+    * via 12 stations(36 min).
+  * Take Exit 4 -> Go straight for 2 blocks -> Turn left, go straight ahead and cross the street at the second pedestrian crossing on the right -> Go straight on for about 200 meters and it will be on your right.
+* Travel Time: approx. 3 hours.
+* Cost: 7,150 KRW
+
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### Traveling from Gimpo
+
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 #### Getting Assistance
 
 * Korea Travel Helpline 1330
