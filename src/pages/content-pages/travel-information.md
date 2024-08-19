@@ -45,6 +45,25 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+**Applications and Payment Methods**
+
+[Road Name Address](https://www.juso.go.kr/openEngPage.do): Search address and translate between Korean and English language
+
+**Map & Transportation Application**
+
+* Kakao Map (Korean, English, Chinese, Japanese) [Apple Store](https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A7%B5-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-no-1-%EC%A7%80%EB%8F%84%EC%95%B1/id304608425) | [Google Play](https://play.google.com/store/apps/details?id=net.daum.android.map&hl=ko)
+* Naver Map (Korean, English) [Apple Store](https://apps.apple.com/kr/app/naver-map-navigation/id311867728) | [Google Play](https://play.google.com/store/apps/details?id=com.nhn.android.nmap&hl=ko)
+
+  * [Language setting guide](https://help.naver.com/service/5637/contents/8275?osType=MOBILE&lang=ko)
+
+**Metro Application**
+
+* Smarter Subway (Korean, English Supported) [Apple Store](https://apps.apple.com/kr/app/%EC%A7%80%ED%95%98%EC%B2%A0-%EC%A2%85%EA%B2%B0%EC%9E%90-smarter-subway/id580488128) | [Google Play](https://play.google.com/store/apps/details?id=teamDoppelGanger.SmarterSubway&hl=ko)
+
+  * [Language setting guide(Korean)](https://www.youtube.com/watch?v=1vSyWn-25zU)
+
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 #### Getting Assistance
 
 * Korea Travel Helpline 1330
