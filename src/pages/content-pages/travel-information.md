@@ -62,6 +62,34 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
   * [Language setting guide(Korean)](https://www.youtube.com/watch?v=1vSyWn-25zU)
 
+**Public Transportation Card**
+
+In South Korea, you need a specific card (transport card) to use public transport. Please refer to the following guide to purchase and use them.
+
+* The card is stored-value and must be reloaded with credit at Korean convenience stores.
+* Cost: 4,000 KRW
+* See [here](https://koreatourcard.kr/en/) for more information
+
+Incheon Airport
+
+* You can purchase and use the Korea Tour Card at Incheon International Airport.
+* Place of purchase: Incheon International Airport Terminal 1 Level 1, Airport Bus Ticket Office (between Gate 8 and 9)
+
+Gimpo Airport(Vending machines)
+
+* In front of the Gimpo Airport Station ticket gate (Gimpo Airport Station connecting ticket gate on B1F - next to E-Mart 24)
+* It can be used on buses, subways, trains, express buses, and more.
+
+How to recharge your credit
+
+Credit recharges are only available in Korean Won CASH.
+
+* Credit can be reloaded in increments of 1000 won.
+* You can top up at convenience stores (GS25, CU, 7-Eleven, MINISTOP, Story Way, Emart24, 365PLUS).
+* Subway Station: Top-up machine including One-time ticket issuer, Tmoney vending machine, portable reload machine, Information Center
+
+See [here](https://www.t-money.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) for how to refund your credit.[](https://www.youtube.com/watch?v=1vSyWn-25zU)
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Getting Assistance
