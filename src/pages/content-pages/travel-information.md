@@ -7,6 +7,8 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 **Quick links:**
 
+* [The Venue](https://www.scc.or.kr/site-map/)
+* [Travel to the venue](https://www.scc.or.kr/en/getting-here/)
 * [The Schedule](https://2024.openinfraasia.org/a/schedule)
 * [Code of Conduct](https://openinfra.dev/legal/code-of-conduct)
 * [Contact the organizers](mailto:support@openinfradays.kr)
@@ -33,11 +35,16 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Travel Information
+#### Accommodations & Tourist Information
 
-* The OpenInfra Summit Asia | OCP APAC Summit will be hosted at the [Suwon Convention Center](https://www.scc.or.kr/site-map/)!
 * Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
 
   * If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
+* [Visit Suwon](http://trans.suwon.go.kr:7000/etgi/) - You can browse tourist attractions in Suwon.
+* [Visit Seoul](https://visitseoul.net/index) - You can browse tourist attractions in Suwon.
 
-**Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
+#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### Getting Assistance
+
+* **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
