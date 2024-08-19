@@ -5,7 +5,6 @@ userRequirement: NONE
 ---
 This is where you’ll find almost anything you need while on-site at the OpenInfra Summit Asia | OCP APAC Summit!
 
-
 **Quick links:**
 
 * [The Schedule](https://2024.openinfraasia.org/a/schedule)
@@ -24,9 +23,10 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### Travel Information
 
-The OpenInfra Summit Asia | OCP APAC Summit will be hosted at the [Suwon Convention Center](https://www.scc.or.kr/site-map/)!
-Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
-If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)[](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
+* The OpenInfra Summit Asia | OCP APAC Summit will be hosted at the [Suwon Convention Center](https://www.scc.or.kr/site-map/)!
+* Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
+
+  * If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)[](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -34,7 +34,11 @@ If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.
 
 * Monday, September 2: [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
 * Tuesday, September 3: [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
-* Wednesday, September 4: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
+* Tuesday, September 3: Dinner Party (Must purchase Dinner Party ticket to attend)
+
+  * [Tickets for Korean Attendees](https://openinfra.cafe24.com/surl/O/25)
+  * [Tickets for International Attendees](https://openinfra.cafe24.com/shop2/surl/O/26)
+* [](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)Wednesday, September 4: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
