@@ -47,4 +47,21 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### Getting Assistance
 
+* Korea Travel Helpline 1330
+
+  * Provided services: Tourist Information, Tourist Interpretation, Tourist Complaints, Tourist Police
+  * Phone helpline: 1330
+
+    * Operating Hours
+
+      * 24 Hour / 7 Days: English, Korean, Japanese, Chinese, Russian
+      * 08:00 ~ 19:00 (KST, UTC+09) / 7 Days: Vietnamese, Thai, Malay/Indonesian
+    * Supported Languages (8): English, Korean, Japanese, Chinese, Russian, Thai, 
+  * How to Call: (Domestic) 1300, (Overseas) +82-2-1330.
+
+    * Note for Telephone Area codes: 02: Seoul, 032: Incheon
+  * [Chat helpline](https://1330chat.visitkorea.or.kr:3000/#/ttalk_main/CHAT1330_160635739001093018/) (Web)
+
+    * Operating Hours: 24 Hour / 7 Days
+    * Supported Languages (4): English, Korean, Japanese, Chinese 
 * **Have Questions?** Contact the OpenInfra Summit Asia | OCP Regional Summit APAC organizers at [support@openinfradays.kr](mailto:support@openinfradays.kr).
