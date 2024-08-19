@@ -144,6 +144,44 @@ To get to the Suwon Convention Center, purchase a ticket for the express bus 886
 
 #### Traveling from Gimpo
 
+[Public Transportation Information](https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=1#none)
+
+**Taxi**
+
+**INSERT IMAGE HERE**
+
+* Show the driver the following or enter it in the taxi app.
+
+  * ## **수원 컨벤션 센터(경기 수원시 영통구 광교중앙로 140)**
+* Travel time: approx. 1 hour.
+* Cost: Around 70,000 KRW(Depends on traffic)
+
+**Bus (Express bus)**
+
+It is located at the end of Gate 1.
+
+* Gimpo Airport A4300 express bus
+
+  * Operation Hours : (For Airport) The First Bus 05:05, The Last Bus 20:20 (For Suwon) The First Bus 06:50, The Last Bus 22:25
+  * Time : (Express Bus) Interval 60\~130 min, (Normal Bus) Interval 34 \~ 40 min
+  * Bus Route(Express) : Gimpo Airport ↔ Seo Suwon Bus Terminal ↔ Suwon Station ↔ Dong Suwon ↔ Take buses 20, 20-1(stop across the street)
+  * Fare : KRW 7,450
+  * Location : (International Terminal) No. 1 on the 2nd floor.
+
+**Subway**
+
+Go through the Gimpo Airport arrival gate and follow the signs to the left to board Line 9.
+
+* Time: 2 hours
+* Subway Route:
+
+  * Gimpo Airport -> Sinnonhyeon Station
+  * via 23 stations(53min)
+  * Sinnonhyeon Station(Red Line Sinbundang) -> Gwanggyo Central Station
+  * via 12 stations(12min)
+  * Take Exit 4 -> Go straight for 2 blocks -> Turn left, go straight ahead and cross the street at the second pedestrian crossing on the right -> Go straight on for about 200 meters and it will be on your right.
+* Fare: KRW 4,500
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### Getting Assistance
