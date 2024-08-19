@@ -87,7 +87,7 @@ How to recharge your credit
 * You can top up at convenience stores (GS25, CU, 7-Eleven, MINISTOP, Story Way, Emart24, 365PLUS).
 * Subway Station: Top-up machine including One-time ticket issuer, Tmoney vending machine, portable reload machine, Information Center
 
-See [here](https://www.t-money.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) for how to refund your credit.[](https://www.youtube.com/watch?v=1vSyWn-25zU)
+See [here](https://www.t-money.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) for instructions on how to refund your credit.[](https://www.youtube.com/watch?v=1vSyWn-25zU)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
