@@ -25,13 +25,23 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### Event Extras
 
-* Monday, September 2: [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
-* Tuesday, September 3: [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
-* Tuesday, September 3: Dinner Party (Must purchase Dinner Party ticket to attend)
+* Monday, September 2: 
 
-  * [Tickets for Korean Attendees](https://openinfra.cafe24.com/surl/O/25)
-  * [Tickets for International Attendees](https://openinfra.cafe24.com/shop2/surl/O/26)
-* [](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)Wednesday, September 4: [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
+  * [An Intimate Evening with OpenStack Experts and Luminaries hosted ](https://www.mirantis.com/resources/openinfra-summit-panel/)by Mirantis
+* Tuesday, September 3: 
+
+  * [Day 1 Keynotes](https://2024.openinfraasia.org/a/schedule#view=calendar&date=2024-09-03&track=466) 
+  * [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
+* Tuesday, September 3: 
+
+  * [Day 2 Keynotes](https://2024.openinfraasia.org/a/schedule#view=calendar&date=2024-09-04&track=466) 
+  * Dinner Party (Must purchase Dinner Party ticket to attend)
+
+    * [Tickets for Korean Attendees](https://openinfra.cafe24.com/surl/O/25)
+    * [Tickets for International Attendees](https://openinfra.cafe24.com/shop2/surl/O/26)
+* [](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)Wednesday, September 4: 
+
+  * [Red Hat OpenStack Services on OpenShift ADVANCED Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20ADVANCED%20Hands-On%20Lab)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
