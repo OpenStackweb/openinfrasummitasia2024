@@ -47,6 +47,8 @@ userRequirement: NONE
 
 ![nipa](nipa-lg.png)
 
+![china mobile](65929fc466256d51-copy.png)
+
 </Grid>
 
 ### Silver Sponsors
