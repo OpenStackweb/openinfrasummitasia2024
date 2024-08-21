@@ -63,7 +63,7 @@ userRequirement: NONE
 
 ![OSCI](opensourceconsultinglogo-sm.jpg)
 
-![LINE](line-sm.png)
+![LINE](ly-sm.png)
 
 ![NHNCloud](nhn-sm.png)
 
