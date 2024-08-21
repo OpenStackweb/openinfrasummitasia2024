@@ -45,9 +45,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### Accommodations & Tourist Information
 
-* Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).
-
-  * If you would like to stay at the [Courtyard by Marriott Suwon](https://maps.app.goo.gl/tqSMpNBViyCRrfeLA) (the closest hotel to the venue), [please fill out this form](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
+* Find more information on travel accommodations including hotels & tours at the [Suwon MICE Housing Bureau](https://openinfra2024.mice.link/).[](https://openinfrafoundation.formstack.com/forms/courtyard_suwon_hotel)
 * [Visit Suwon](http://trans.suwon.go.kr:7000/etgi/) - You can browse tourist attractions in Suwon.
 * [Visit Seoul](https://visitseoul.net/index) - You can browse tourist attractions in Suwon.
 
