@@ -34,6 +34,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
   * [Red Hat OpenStack Services on OpenShift Hands-On Lab](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)
   * Official Networking Event (Must purchase Networking Event ticket to attend)
 
+    * Join us at [마키노차야 광교점](https://maps.app.goo.gl/kbp5B3ZBMqsx3kxi7) for a celebration of the OpenInfra and OCP communities on Tuesday, September 3 at 18:00. A buffet-style dinner will be served with drinks. 
     * [Tickets for Korean Attendees (40,000원](https://openinfra.cafe24.com/surl/O/25))
     * [Tickets for International Attendees ($30.00)](https://openinfra.cafe24.com/shop2/surl/O/26)
 * [](https://2024.openinfraasia.org/a/schedule#view=calendar&title=Red%20Hat%20OpenStack%20Services%20on%20OpenShift%20Hands-On%20Lab)Wednesday, September 4: 
