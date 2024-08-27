@@ -26,13 +26,12 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Event Extras
+#### Celebrate with Us at the Dinner Party!
 
-Join us at [마키노차야 광교점](https://maps.app.goo.gl/kbp5B3ZBMqsx3kxi7) for a celebration of the OpenInfra and OCP communities on Tuesday, September 3 at 18:00. A buffet-style dinner will be served with drinks. 
+* Join us at [마키노차야 광교점](https://maps.app.goo.gl/kbp5B3ZBMqsx3kxi7) for a celebration of the OpenInfra and OCP communities on Tuesday, September 3 at 18:00. A buffet-style dinner will be served with drinks. 
 
-[Tickets for Korean Attendees (40,000원](https://openinfra.cafe24.com/surl/O/25))
-
-[Tickets for International Attendees ($30.00)](https://openinfra.cafe24.com/shop2/surl/O/26)
+  * [Tickets for Korean Attendees (40,000원](https://openinfra.cafe24.com/surl/O/25))
+  * [Tickets for International Attendees ($30.00)](https://openinfra.cafe24.com/shop2/surl/O/26)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
