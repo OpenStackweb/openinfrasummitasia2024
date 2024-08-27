@@ -10,8 +10,9 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 * [The Venue](https://www.scc.or.kr/site-map/)
 * [Travel to the venue](https://www.scc.or.kr/en/getting-here/)
 * [The Schedule](https://2024.openinfraasia.org/a/schedule)
+* [Meal Coupons](https://2024.openinfraasia.org/meal-coupons/)
 * [Code of Conduct](https://openinfra.dev/legal/code-of-conduct)
-* [Contact the organizers](mailto:support@openinfradays.kr)
+* [Contact the organizers](mailto:support@openinfradays.kr)[](https://2024.openinfraasia.org/meal-coupons/)
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -19,6 +20,8 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 * Both Day 1 and Day 2 will begin with Keynotes and is followed by a lunch break.
 * Lunch is NOT provided onsite. Each attendee will be given a meal voucher they can use at a nearby location.
+
+  * Find a list of places Meal Coupons will work [here](https://2024.openinfraasia.org/meal-coupons/).
 * A coffee and snack break will be provided in the afternoon.
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
