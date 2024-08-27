@@ -17,11 +17,12 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 #### What to Expect
 
-* Both Day 1 and Day 2 will begin with Keynotes and is followed by a lunch break.
-* Lunch is NOT provided onsite. Each attendee will be given a meal voucher they can use at a nearby location.
+* Ahead of the event you will receive a QR code. Please bring this code with you to pick up your badge. 
 
-  * Find a list of places Meal Coupons will work [here](https://2024.openinfraasia.org/meal-coupons/).
-* A coffee and snack break will be provided in the afternoon.
+  * Badge pickup will be on Floor 3 of the Suwon Convention Center.
+* Coffee and cookies will be provided in the morning
+* Lunch break will occur on both day 1 and day 2 at 1200 PM. Lunch will be offsite. At badge pickup you will receive a [Meal Coupon](https://2024.openinfraasia.org/meal-coupons/) to visit a nearby restaurant for lunch. 
+* There is no dedicated WiFi for the Event so please use the publically available WiFI.
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
