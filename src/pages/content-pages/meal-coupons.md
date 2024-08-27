@@ -13,7 +13,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
 
 본 식사권은 해당 기간 중 갤러리아 백화점 광교점 식당가 (9층, 지하 1층), 롯데 아울렛 광교점 식당가 (3층), 엘포트 광교 식당가 (지하 1층)에서 사용가능합니다.  위치와 레스토랑 이름은 아래와 같습니다.  자세한 위치와 레스토랑 이름은 아래와 같습니다.
 
-**Galleria Department Gwangyo (3 minutes walk, [click here](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) for detailed location)**   
+#### **Galleria Department Gwangyo (3 minutes walk, [click here](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) for detailed location)**   
 
 *(도보로 3분 위치, [자세한 위치](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) 클릭하여 확인/)*
 
@@ -45,7 +45,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
   * 본가스시 (Bonga Sushi, a Sushi restaurant)
   * 달링키친 (Darling Kitchen, a Western restaurant)
 
-**Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
+#### **Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
@@ -63,7 +63,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
   * 마잇다키친 (Ma It Da Kitchen, a Italian restaurant)
   * 일월분식 (Ilwoul Bunsik, a Korean restaurant)
 
-L’Fort Mall  (5 minutes walk, click here for detailed location)
+#### L’Fort Mall  (5 minutes walk, click here for detailed location)
 
 * 사용 가능 식당 (Restaurants that accept the meal coupon):
 * 지하 1 층 (Basement 1):  델리커리 (Delhi Curry, a Curry restaurant)
