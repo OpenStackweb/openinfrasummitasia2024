@@ -3,117 +3,62 @@ templateKey: content-page
 title: Meal Coupons
 userRequirement: NONE
 ---
-밀쿠폰은 2024년 9월 3일 및 4일 수원 컨벤션 센터에서 개최되는 OpenInfra Summit Asia & OPC APAC Sumit 2024 참가자들에게 발행되는 식사권입니다.
+The meal coupon is a meal voucher issued to participants of the OpenInfra Summit Asia & OPC APAC Sumit 2024 to be held at the Suwon Convention Center on September 3 and 4, 2024.
 
+You will receive your meal coupon during badge pickup.
 
+This meal coupon is available during the event period at the [Galleria Department Gwanggyo restaurant area](https://dept.galleria.co.kr/store-info/gwanggyo/shopping-info) (9th floor, basement 1), [Lotte Outlet Gwanggyo restaurant area](https://www.lotteshopping.com/store/main?cstrCd=0355) (3rd floor), and Elport Gwanggyo restaurant area (basement 1). The location and restaurant names are as follows:
 
-This meal coupon is a meal voucher issued to participants of the OpenInfra Summit Asia & OPC APAC Sumit 2024 to be held at the Suwon Convention Center on September 3 and 4, 2024.
-
-
-
-본 식사권은 해당 기간 중 갤러리아 백화점 광교점 식당가 (9층, 지하 1층), 롯데 아울렛 광교점 식당가 (3층), 엘포트 광교 식당가 (지하 1층)에서 사용가능합니다.  위치와 레스토랑 이름은 아래와 같습니다.  자세한 위치와 레스토랑 이름은 아래와 같습니다.
-
-This meal coupon is available during the event period at the Galleria Department Gwanggyo restaurant area (9th floor, basement 1), Lotte Outlet Gwanggyo restaurant area (3rd floor), and Elport Gwanggyo restaurant area (basement 1). The location and restaurant names are as follows:
-
-
-
-Galleria Department Gwangyo 
-
-
-
-(도보로 3분 위치, 자세한 위치 클릭하여 확인/3 minutes walk, click here for detailed location)   
-
-
+**Galleria Department Gwangyo (3 minutes walk, click here for detailed location)**   
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
-지하 1층 (Basement 1):  	두레 (Doore, a Korean restaurant) 
+* 지하 1층 (Basement 1):  	
 
-\    토나리우동 (Tonari Udong, a Japanese restaurant)
+  * 두레 (Doore, a Korean restaurant) 
+  * 토나리우동 (Tonari Udong, a Japanese restaurant)
+  * 땀땀 (TamTam, a Vietnamese restaurant)
+  * 스시아지 (Sushi Aji, a Japanese restaurant)
+  * 효분당 (Hyobundang, a Japanese restaurant)
+  * 중화가정 (Chinese Family Restaurant, a Chinese restaurant)
+  * 떡산 (Tteok San, a Korean restaurant)
+* 9층 (9th floor):
 
-	땀땀 (TamTam, a Vietnamese restaurant)
+  * 속초코다리냉면 (Sokcho-kodari Naengmyeon, a Korean restaurant)
+  * 다운타우너 (Downtowner, a Hamburger restaurant)
+  * 온정 (Onjeong, a Korean restaurant)
+  * 마스터키친 (Master Kitchen, a Japanese restaurant)
+  * 광화문미진 (Mijin, a Korean restaurant)
+  * 민스키친 (Min’s Kitchen, a Korean restaurant)
+  * 찰스의 식탁 (Charles Dining Table, a Western restaurant)
+  * 청 (Chung, a Chinese restaurant)
+  * 콘타이 (Konthai, a Thai restaurant)
+  * 쿠차라 (Cuchara, a Mexican restaurant)
+  * 매온당 (Maeondang, a Korean restaurant)
+  * 정돈 (Jeongdong, a Tonkatsu restaurant)
+  * 본가스시 (Bonga Sushi, a Sushi restaurant)
+  * 달링키친 (Darling Kitchen, a Western restaurant)
 
-\    	스시아지 (Sushi Aji, a Japanese restaurant)
-
-	효분당 (Hyobundang, a Japanese restaurant)
-
-	중화가정 (Chinese Family Restaurant, a Chinese restaurant)
-
-	떡산 (Tteok San, a Korean restaurant)
-
-9층 (9th floor):	속초코다리냉면 (Sokcho-kodari Naengmyeon, a Korean restaurant)
-
-	다운타우너 (Downtowner, a Hamburger restaurant)
-
-	온정 (Onjeong, a Korean restaurant)
-
-	마스터키친 (Master Kitchen, a Japanese restaurant)
-
-	광화문미진 (Mijin, a Korean restaurant)
-
-	민스키친 (Min’s Kitchen, a Korean restaurant)
-
-	찰스의 식탁 (Charles Dining Table, a Western restaurant)
-
-	청 (Chung, a Chinese restaurant)
-
-	콘타이 (Konthai, a Thai restaurant)
-
-	쿠차라 (Cuchara, a Mexican restaurant)
-
-	매온당 (Maeondang, a Korean restaurant)
-
-	정돈 (Jeongdong, a Tonkatsu restaurant)
-
-	본가스시 (Bonga Sushi, a Sushi restaurant)
-
-	달링키친 (Darling Kitchen, a Western restaurant)
-
-	
-
-			 
-
-
-
-
-
-\    
-
- Lotte Outlet Gwangyo 
-
-
-
-(도보로 5분 위치, 자세한 위치 클릭하여 확인/5 minutes walk, click here for detailed location)   
+ **Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
-3 층 (3rd floor):  	알찬밥상 (Alchan Bapsang, a Korean restaurant)
+* 3 층 (3rd floor): 
 
-			가마솥김밥 (Gamasot Roll, a Korean restaurant)
-
-			더맨타코 (The Man Taco, a Mexican restaurant)
-
-			코코이치방야 (CoCo Ichibanya, a Japanese curry restaurant)
-
-			대가연 (Daegayeon, a Korean restaurant)
-
-			차이홍 (Chai Hong, a Chinese restaurant)
-
-			두면반 (Dumyeonban, a Korean restaurant)
-
-			금파돈까스 (Keumpa Tonkatsu, a Tonkatsu restaurant)
-
-			군산오징어 (GunSan Squid, a Korean restaurant)
-
-			마잇다키친 (Ma It Da Kitchen, a Italian restaurant)
-
-			일월분식 (Ilwoul Bunsik, a Korean restaurant)
-
-
-
-\    
-
-
+  * 알찬밥상 (Alchan Bapsang, a Korean restaurant)
+  * 가마솥김밥 (Gamasot Roll, a Korean restaurant)
+  * 더맨타코 (The Man Taco, a Mexican restaurant)
+  * 코코이치방야 (CoCo Ichibanya, a Japanese curry restaurant)
+  * 대가연 (Daegayeon, a Korean restaurant)
+  * 차이홍 (Chai Hong, a Chinese restaurant)
+* 			두면반 (Dumyeonban, a Korean restaurant)
+* 			금파돈까스 (Keumpa Tonkatsu, a Tonkatsu restaurant)
+* 			군산오징어 (GunSan Squid, a Korean restaurant)
+* 			마잇다키친 (Ma It Da Kitchen, a Italian restaurant)
+* 			일월분식 (Ilwoul Bunsik, a Korean restaurant)
+*
+* \    
+*
 
 L’Fort Mall  
 
@@ -156,7 +101,3 @@ Any remaining balance will not be refunded, and if meal costs exceed the specifi
 본 식사권 사용에 따른 갤러리아 포인트 및 롯데 포인트 적립은 불가하며 현금 영수증 역시 발행되지 않음을 양해해주십시오.  다만, KRW 15,000 이상 사용의 경우 본인 부담 금액에 대해서만 해당 포인트 적립 및 현금 영수증 발행이 가능합니다.
 
 Please understand that Galleria Points and Lotte Points cannot be accumulated for the use of this meal coupon, and cash receipts cannot be issued. The point accumulation and cash receipt issuance are only possible for amounts exceeding KRW 15,000 that you must pay yourself.
-
-
-
-\#  #  #
