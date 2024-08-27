@@ -7,7 +7,7 @@ The meal coupon is a meal voucher issued to participants of the OpenInfra Summit
 
 You will receive your meal coupon during badge pickup.
 
-This meal coupon is available during the event period at the [Galleria Department Gwanggyo restaurant area](https://dept.galleria.co.kr/store-info/gwanggyo/shopping-info) (9th floor, basement 1), [Lotte Outlet Gwanggyo restaurant area](https://www.lotteshopping.com/store/main?cstrCd=0355) (3rd floor), and [Elport Gwanggyo restaurant area](https://blog.naver.com/lfortmall_nb) (basement 1). The location and restaurant names are as follows:
+This meal coupon is available during the event period at the [Galleria Department Gwanggyo restaurant area](https://dept.galleria.co.kr/store-info/gwanggyo/shopping-info) (9th floor & basement 1), [Lotte Outlet Gwanggyo restaurant area](https://www.lotteshopping.com/store/main?cstrCd=0355) (3rd floor), and [Elport Gwanggyo restaurant area](https://blog.naver.com/lfortmall_nb) (basement 1). The location and restaurant names are as follows:
 
 밀쿠폰은 2024년 9월 3일 및 4일 수원 컨벤션 센터에서 개최되는 OpenInfra Summit Asia & OPC APAC Sumit 2024 참가자들에게 발행되는 식사권입니다.
 
@@ -31,19 +31,19 @@ This meal coupon is available during the event period at the [Galleria Departmen
 * 9층 (9th floor):
 
   * [속초코다리냉면](https://map.naver.com/p/entry/place/1863249583?lng=127.0574831&lat=37.2847383&placePath=/home&searchType=place&c=15.00,0,0,0,dh) (Sokcho-kodari Naengmyeon, a Korean restaurant)
-  * 다운타우너 (Downtowner, a Hamburger restaurant)
-  * 온정 (Onjeong, a Korean restaurant)
-  * 마스터키친 (Master Kitchen, a Japanese restaurant)
-  * 광화문미진 (Mijin, a Korean restaurant)
-  * 민스키친 (Min’s Kitchen, a Korean restaurant)
-  * 찰스의 식탁 (Charles Dining Table, a Western restaurant)
-  * 청 (Chung, a Chinese restaurant)
-  * 콘타이 (Konthai, a Thai restaurant)
-  * 쿠차라 (Cuchara, a Mexican restaurant)
-  * 매온당 (Maeondang, a Korean restaurant)
-  * 정돈 (Jeongdong, a Tonkatsu restaurant)
-  * 본가스시 (Bonga Sushi, a Sushi restaurant)
-  * 달링키친 (Darling Kitchen, a Western restaurant)
+  * [다운타우너](https://map.naver.com/p/entry/place/1292253773?lng=127.0569345&lat=37.2852303&placePath=/home&entry=plt&searchType=place&c=15.00,0,0,0,dh) (Downtowner, a Hamburger restaurant)
+  * [온정](https://map.naver.com/p/entry/place/1667801029?placePath=%25252Fhome%25253Fentry%25253Dplt&searchType=place&lng=127.0574691&lat=37.2853533&c=15.00,0,0,0,dh) (Onjeong, a Korean restaurant)
+  * [마스터키친](https://map.naver.com/p/entry/place/1142891637?lng=127.0571595&lat=37.2853007&placePath=/home&entry=plt&searchType=place) (Master Kitchen, a Japanese restaurant)
+  * [광화문미진](https://map.naver.com/p/entry/place/1979636391?lng=127.0572642&lat=37.2853046&placePath=/home&searchType=place) (Mijin, a Korean restaurant)
+  * [민스키친](https://map.naver.com/p/entry/place/1979636391?lng=127.0572642&lat=37.2853046&placePath=/home&searchType=place) (Min’s Kitchen, a Korean restaurant)
+  * [찰스의 식탁](https://map.naver.com/p/entry/place/1887843614?lng=127.0575508&lat=37.2855737&placePath=/home&entry=plt&searchType=place&c=15.00,0,0,0,dh) (Charles Dining Table, a Western restaurant)
+  * [청](https://map.naver.com/p/entry/place/1783970132?lng=127.0576644&lat=37.2851581&placePath=/home&entry=plt&searchType=place) (Chung, a Chinese restaurant)
+  * [콘타이](https://map.naver.com/p/entry/place/1615720321?lng=127.0574232&lat=37.2854672&placePath=/home&entry=plt&searchType=place) (Konthai, a Thai restaurant)
+  * [쿠차라](https://map.naver.com/p/entry/place/1405922975?lng=127.0574483&lat=37.2850451&placePath=/home&entry=plt&searchType=place&c=15.00,0,0,0,dh) (Cuchara, a Mexican restaurant)
+  * [매온당](https://map.naver.com/p/entry/place/1180080054?lng=127.0579452&lat=37.2854546&placePath=/home&entry=plt&searchType=place) (Maeondang, a Korean restaurant)
+  * [정돈](https://map.naver.com/p/entry/place/1729852545?lng=127.057299&lat=37.2853825&placePath=/home&entry=plt&searchType=place) (Jeongdong, a Tonkatsu restaurant)
+  * [본가스시](https://map.naver.com/p/entry/place/1942681864?lng=127.0573072&lat=37.2851259&placePath=/home&entry=plt&searchType=place) (Bonga Sushi, a Sushi restaurant)
+  * [달링키친](https://map.naver.com/p/entry/place/1490455831?lng=127.0572642&lat=37.2853046&placePath=/&entry=plt&searchType=place) (Darling Kitchen, a Western restaurant)
 
 #### **Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
 
@@ -66,7 +66,8 @@ This meal coupon is available during the event period at the [Galleria Departmen
 #### L’Fort Mall  (5 minutes walk, click here for detailed location)
 
 * 사용 가능 식당 (Restaurants that accept the meal coupon):
-* 지하 1 층 (Basement 1):  델리커리 (Delhi Curry, a Curry restaurant)
+* 지하 1 층 (Basement 1):  
+* 델리커리 (Delhi Curry, a Curry restaurant)
 * 더브라운 (The Brown, a Brunch restaurant)
 * 두부는 과학이다 (Tofu is Science, a Korean restaurant)
 * 우리동네국수집 (Our Neighborhood Noodle Shop, a Korean restaurant)
