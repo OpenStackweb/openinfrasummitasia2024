@@ -15,7 +15,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
 
 #### **Galleria Department Gwangyo (3 minutes walk, [click here](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) for detailed location)**   
 
-*(도보로 3분 위치, [자세한 위치](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) 클릭하여 확인)*
+(도보로 3분 위치, [자세한 위치](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) 클릭하여 확인)
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
@@ -65,7 +65,9 @@ This meal coupon is available during the event period at the [Galleria Departmen
   * [마잇다키친](https://map.naver.com/p/entry/place/37098415?lng=127.0560171&lat=37.2866959&placePath=/home&entry=plt&searchType=place) (Ma It Da Kitchen, a Italian restaurant)
   * [일월분식](https://map.naver.com/p/entry/place/1244227527?lng=127.0557102&lat=37.2860276&placePath=/home&entry=plt&searchType=place) (Ilwoul Bunsik, a Korean restaurant)
 
-#### L’Fort Mall  (5 minutes walk, click here for detailed location)
+#### [L’Fort Mall](https://blog.naver.com/lfortmall_nb)  (5 minutes walk, [click here](https://www.google.com/maps/place/Gwanggyo+L'FORT+I-PARK/data=!4m6!3m5!1s0x357b5b41c3f10491:0xbc1780fe2d8096fe!8m2!3d37.286828!4d127.0577689!16s/g/11f730b05y?authuser=0&entry=ttu) for detailed location)
+
+(도보로 5분 위치, [자세한 위치](https://www.google.com/maps/place/Gwanggyo+L'FORT+I-PARK/data=!4m6!3m5!1s0x357b5b41c3f10491:0xbc1780fe2d8096fe!8m2!3d37.286828!4d127.0577689!16s/g/11f730b05y?authuser=0&entry=ttu) 클릭하여 확인)
 
 * 사용 가능 식당 (Restaurants that accept the meal coupon):
 * 지하 1 층 (Basement 1):  
