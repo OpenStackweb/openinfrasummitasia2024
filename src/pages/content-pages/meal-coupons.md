@@ -7,7 +7,7 @@ The meal coupon is a meal voucher issued to participants of the OpenInfra Summit
 
 You will receive your meal coupon during badge pickup.
 
-This meal coupon is available during the event period at the [Galleria Department Gwanggyo restaurant area](https://dept.galleria.co.kr/store-info/gwanggyo/shopping-info) (9th floor, basement 1), [Lotte Outlet Gwanggyo restaurant area](https://www.lotteshopping.com/store/main?cstrCd=0355) (3rd floor), and Elport Gwanggyo restaurant area (basement 1). The location and restaurant names are as follows:
+This meal coupon is available during the event period at the [Galleria Department Gwanggyo restaurant area](https://dept.galleria.co.kr/store-info/gwanggyo/shopping-info) (9th floor, basement 1), [Lotte Outlet Gwanggyo restaurant area](https://www.lotteshopping.com/store/main?cstrCd=0355) (3rd floor), and [Elport Gwanggyo restaurant area](https://blog.naver.com/lfortmall_nb) (basement 1). The location and restaurant names are as follows:
 
 밀쿠폰은 2024년 9월 3일 및 4일 수원 컨벤션 센터에서 개최되는 OpenInfra Summit Asia & OPC APAC Sumit 2024 참가자들에게 발행되는 식사권입니다.
 
@@ -45,7 +45,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
   * 본가스시 (Bonga Sushi, a Sushi restaurant)
   * 달링키친 (Darling Kitchen, a Western restaurant)
 
-  **Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
+**Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
@@ -67,24 +67,24 @@ L’Fort Mall  (5 minutes walk, click here for detailed location)
 
 * 사용 가능 식당 (Restaurants that accept the meal coupon):
 * 지하 1 층 (Basement 1):  델리커리 (Delhi Curry, a Curry restaurant)
-* ```
-  			더브라운 (The Brown, a Brunch restaurant)
-  ```
-* ```
-  			두부는 과학이다 (Tofu is Science, a Korean restaurant)
-  ```
+* 더브라운 (The Brown, a Brunch restaurant)
+* 두부는 과학이다 (Tofu is Science, a Korean restaurant)
 * 우리동네국수집 (Our Neighborhood Noodle Shop, a Korean restaurant)
 * 칸지고고 (Congeegogo, a Chinese restaurant)
 * 감성타고 (Gamsung Taco, a Mexican restaurant)	
 
-본 식사권의 유효기간은 2024년 9월 3일 (오전 11시 - 오후 3시) 및 4일 (오전 11시 - 오후 3시) 동안에만 사용가능하며 해당 시간 이외의 사용은 어떠한 경우에도 불가합니다.  
+ 
+
+**PLEASE NOTE:**
 
 This meal coupon is only valid on September 3, 2024 (11:00 AM - 3:00 PM) and 4, 2024 (11:00 AM - 3:00 PM) and cannot be used outside of these times under any circumstances.
 
-남은 차액은 지급 불가하며, 지정한 금액 (KRW 15,000) 이상 식사 비용이 발생한 경우 초과된 금액에 대해서는 참가자 개인이 별도로 부담해야 합니다.
-
 Any remaining balance will not be refunded, and if meal costs exceed the specified amount (KRW 15,000), the participant must separately pay for the excess amount.
 
-본 식사권 사용에 따른 갤러리아 포인트 및 롯데 포인트 적립은 불가하며 현금 영수증 역시 발행되지 않음을 양해해주십시오.  다만, KRW 15,000 이상 사용의 경우 본인 부담 금액에 대해서만 해당 포인트 적립 및 현금 영수증 발행이 가능합니다.
-
 Please understand that Galleria Points and Lotte Points cannot be accumulated for the use of this meal coupon, and cash receipts cannot be issued. The point accumulation and cash receipt issuance are only possible for amounts exceeding KRW 15,000 that you must pay yourself.
+
+본 식사권의 유효기간은 2024년 9월 3일 (오전 11시 - 오후 3시) 및 4일 (오전 11시 - 오후 3시) 동안에만 사용가능하며 해당 시간 이외의 사용은 어떠한 경우에도 불가합니다.  
+
+남은 차액은 지급 불가하며, 지정한 금액 (KRW 15,000) 이상 식사 비용이 발생한 경우 초과된 금액에 대해서는 참가자 개인이 별도로 부담해야 합니다.
+
+본 식사권 사용에 따른 갤러리아 포인트 및 롯데 포인트 적립은 불가하며 현금 영수증 역시 발행되지 않음을 양해해주십시오.  다만, KRW 15,000 이상 사용의 경우 본인 부담 금액에 대해서만 해당 포인트 적립 및 현금 영수증 발행이 가능합니다.
