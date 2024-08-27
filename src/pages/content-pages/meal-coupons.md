@@ -15,7 +15,7 @@ This meal coupon is available during the event period at the [Galleria Departmen
 
 #### **Galleria Department Gwangyo (3 minutes walk, [click here](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) for detailed location)**   
 
-*(도보로 3분 위치, [자세한 위치](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) 클릭하여 확인/)*
+*(도보로 3분 위치, [자세한 위치](https://maps.app.goo.gl/Cxm1wTYrurpfWvqb7) 클릭하여 확인)*
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
@@ -45,23 +45,25 @@ This meal coupon is available during the event period at the [Galleria Departmen
   * [본가스시](https://map.naver.com/p/entry/place/1942681864?lng=127.0573072&lat=37.2851259&placePath=/home&entry=plt&searchType=place) (Bonga Sushi, a Sushi restaurant)
   * [달링키친](https://map.naver.com/p/entry/place/1490455831?lng=127.0572642&lat=37.2853046&placePath=/&entry=plt&searchType=place) (Darling Kitchen, a Western restaurant)
 
-#### **Lotte Outlet Gwangyo** (5 minutes walk, click here for detailed location)   
+#### **[Lotte Outlet Gwangyo](https://www.lotteshopping.com/store/main?cstrCd=0355)** (5 minutes walk, [click here](https://www.google.com/maps/place/LOTTE+OUTLETS+Gwanggyo/data=!3m1!4b1!4m6!3m5!1s0x357b5b9568f518e9:0xa4d5596960181949!8m2!3d37.2864033!4d127.0555078!16s/g/11f60zdkk0?authuser=0&entry=ttu) for detailed location)   
+
+(도보로 5분 위치, [자세한 위치](https://www.google.com/maps/place/LOTTE+OUTLETS+Gwanggyo/data=!3m1!4b1!4m6!3m5!1s0x357b5b9568f518e9:0xa4d5596960181949!8m2!3d37.2864033!4d127.0555078!16s/g/11f60zdkk0?authuser=0&entry=ttu) 클릭하여 확인)
 
 사용 가능 식당 (Restaurants that accept the meal coupon):
 
 * 3 층 (3rd floor): 
 
-  * 알찬밥상 (Alchan Bapsang, a Korean restaurant)
-  * 가마솥김밥 (Gamasot Roll, a Korean restaurant)
-  * 더맨타코 (The Man Taco, a Mexican restaurant)
-  * 코코이치방야 (CoCo Ichibanya, a Japanese curry restaurant)
-  * 대가연 (Daegayeon, a Korean restaurant)
-  * 차이홍 (Chai Hong, a Chinese restaurant)
-  * 두면반 (Dumyeonban, a Korean restaurant)
-  * 금파돈까스 (Keumpa Tonkatsu, a Tonkatsu restaurant)
-  * 군산오징어 (GunSan Squid, a Korean restaurant)
-  * 마잇다키친 (Ma It Da Kitchen, a Italian restaurant)
-  * 일월분식 (Ilwoul Bunsik, a Korean restaurant)
+  * [알찬밥상](https://map.naver.com/p/entry/place/1564468602?lng=127.0553199&lat=37.2865207&placePath=/home&entry=plt&searchType=place&c=15.00,0,0,0,dh) (Alchan Bapsang, a Korean restaurant)
+  * [가마솥김밥](https://map.naver.com/p/entry/place/37107690?lng=127.0556569&lat=37.286075&placePath=/home&entry=plt&searchType=place) (Gamasot Roll, a Korean restaurant)
+  * [더맨타코](https://map.naver.com/p/entry/place/1904053262?lng=127.055899&lat=37.2862258&placePath=/home&entry=plt&searchType=place) (The Man Taco, a Mexican restaurant)
+  * [코코이치방야](https://map.naver.com/p/entry/place/37049996?lng=127.0559336&lat=37.2865237&placePath=/home&entry=plt&searchType=place) (CoCo Ichibanya, a Japanese curry restaurant)
+  * [대가연](https://map.naver.com/p/entry/place/1212046452?lng=127.0554484&lat=37.2866697&placePath=/home&entry=plt&searchType=place) (Daegayeon, a Korean restaurant)
+  * [차이홍](https://map.naver.com/p/entry/place/1554278403?lng=127.0554484&lat=37.2866697&placePath=/home&entry=plt&searchType=place) (Chai Hong, a Chinese restaurant)
+  * [두면반](https://map.naver.com/p/entry/place/37069027?lng=127.0553238&lat=37.2862897&placePath=/home&entry=plt&searchType=place) (Dumyeonban, a Korean restaurant)
+  * [금파돈까스](https://map.naver.com/p/entry/place/1306559938?lng=127.0556988&lat=37.2868167&placePath=/home&entry=plt&searchType=place) (Keumpa Tonkatsu, a Tonkatsu restaurant)
+  * [군산오징어](https://map.naver.com/p/entry/place/37092766?placePath=%25252Fhome%25253Fentry%25253Dplt&searchType=place&lng=127.0559031&lat=37.2867518) (GunSan Squid, a Korean restaurant)
+  * [마잇다키친](https://map.naver.com/p/entry/place/37098415?lng=127.0560171&lat=37.2866959&placePath=/home&entry=plt&searchType=place) (Ma It Da Kitchen, a Italian restaurant)
+  * [일월분식](https://map.naver.com/p/entry/place/1244227527?lng=127.0557102&lat=37.2860276&placePath=/home&entry=plt&searchType=place) (Ilwoul Bunsik, a Korean restaurant)
 
 #### L’Fort Mall  (5 minutes walk, click here for detailed location)
 
