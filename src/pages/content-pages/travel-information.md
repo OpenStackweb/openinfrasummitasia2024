@@ -7,8 +7,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 **Quick links:**
 
-* [The Venue](https://www.scc.or.kr/site-map/)
-* [Travel to the venue](https://www.scc.or.kr/en/getting-here/)
+* [The Venue](https://www.scc.or.kr/site-map/)[](https://www.scc.or.kr/en/getting-here/)
 * [The Schedule](https://2024.openinfraasia.org/a/schedule)
 * [Meal Coupons](https://2024.openinfraasia.org/meal-coupons/)
 * [Code of Conduct](https://openinfra.dev/legal/code-of-conduct)
