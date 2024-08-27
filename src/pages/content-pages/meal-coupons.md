@@ -69,14 +69,16 @@ This meal coupon is available during the event period at the [Galleria Departmen
 
 (도보로 5분 위치, [자세한 위치](https://www.google.com/maps/place/Gwanggyo+L'FORT+I-PARK/data=!4m6!3m5!1s0x357b5b41c3f10491:0xbc1780fe2d8096fe!8m2!3d37.286828!4d127.0577689!16s/g/11f730b05y?authuser=0&entry=ttu) 클릭하여 확인)
 
-* 사용 가능 식당 (Restaurants that accept the meal coupon):
+사용 가능 식당 (Restaurants that accept the meal coupon):
+
 * 지하 1 층 (Basement 1):  
-* 델리커리 (Delhi Curry, a Curry restaurant)
-* 더브라운 (The Brown, a Brunch restaurant)
-* 두부는 과학이다 (Tofu is Science, a Korean restaurant)
-* 우리동네국수집 (Our Neighborhood Noodle Shop, a Korean restaurant)
-* 칸지고고 (Congeegogo, a Chinese restaurant)
-* 감성타고 (Gamsung Taco, a Mexican restaurant)	
+
+  * [델리커리](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ssc=tab.nx.all&query=%25EA%25B4%2591%25EA%25B5%2590+%25EB%258D%25B8%25EB%25A6%25AC%25EC%25BB%25A4%25EB%25A6%25AC&oquery=%25EA%25B4%2591%25EA%25B5%2590+%25EC%259D%25BC%25EC%259B%2594%25EB%25B6%2584%25EC%258B%259D&tqi=iqyeYsqVN8ossM6uzB4ssssssV8-181052) (Delhi Curry, a Curry restaurant)
+  * [더브라운](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ssc=tab.nx.all&query=%25EA%25B4%2591%25EA%25B5%2590+%25EB%258D%2594%25EB%25B8%258C%25EB%259D%25BC%25EC%259A%25B4&oquery=%25EA%25B4%2591%25EA%25B5%2590+%25EB%258D%25B8%25EB%25A6%25AC%25EC%25BB%25A4%25EB%25A6%25AC&tqi=iqyeHlqo1e8ss5jXSF8ssssstPs-133263) (The Brown, a Brunch restaurant)
+  * [두부는 과학이다](https://map.naver.com/p/entry/place/1805204212?lng=127.0577371&lat=37.2870278&placePath=/home&entry=plt&searchType=place) (Tofu is Science, a Korean restaurant)
+  * [우리동네국수집](https://map.naver.com/p/entry/place/1598284169?lng=127.0578603&lat=37.2868445&placePath=/home&searchType=place&c=17.24,0,0,0,dh) (Our Neighborhood Noodle Shop, a Korean restaurant)
+  * [칸지고고](https://map.naver.com/p/search/%25EA%25B4%2591%25EA%25B5%2590%2520%25EC%25B9%25B8%25EC%25A7%2580%25EA%25B3%25A0%25EA%25B3%25A0/place/1982846192?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place) (Congeegogo, a Chinese restaurant)
+  * [감성타고](https://map.naver.com/p/entry/place/1890505350?c=15.00,0,0,0,dh) (Gamsung Taco, a Mexican restaurant)	
 
  
 
