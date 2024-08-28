@@ -75,6 +75,8 @@ userRequirement: NONE
 
 ![ZConverter](zconverter-sm.png)
 
+![Furiosa](furiosa_ai_h_rgb_k.png)
+
 </Grid>
 
 ### Startup Sponsors
