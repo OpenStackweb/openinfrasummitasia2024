@@ -31,7 +31,7 @@ userRequirement: NONE
 
 ![Fadu](fadu-lg.png)
 
-
+![Mirantis](mirantis-sm-hrz.png)
 
 ![RedHat](redhat-lg.png)
 
