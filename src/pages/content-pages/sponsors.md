@@ -31,9 +31,11 @@ userRequirement: NONE
 
 ![Fadu](fadu-lg.png)
 
-![Mirantis](mirantis-sm-hrz.png)
+
 
 ![RedHat](redhat-lg.png)
+
+![Wind River](windriver-lg.png)
 
 </Grid>
 
@@ -61,6 +63,8 @@ userRequirement: NONE
 
 ![CEJN](cejnsizeadjust.png)
 
+![Furiosa](furiosa_ai_h_rgb_k.png)
+
 ![OSCI](opensourceconsultinglogo-sm.jpg)
 
 ![LINE](ly-sm.png)
@@ -74,8 +78,6 @@ userRequirement: NONE
 ![Valvoline](valvoline-sm.png)
 
 ![ZConverter](zconverter-sm.png)
-
-![Furiosa](furiosa_ai_h_rgb_k.png)
 
 </Grid>
 
