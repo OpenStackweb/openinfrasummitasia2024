@@ -19,7 +19,7 @@
       },
       "loginButton": {
         "text": "Log In",
-        "display": true
+        "display": false
       }
     },
     "images": [
