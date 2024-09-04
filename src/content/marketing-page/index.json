@@ -7,7 +7,7 @@
     "buttons": {
       "registerButton": {
         "text": "Speaker & Sponsor Registration",
-        "display": true
+        "display": false
       },
       "registerkoreaButton": {
         "text": "한국 거주자 개인 티켓 구매",
@@ -19,7 +19,7 @@
       },
       "loginButton": {
         "text": "Log In",
-        "display": true
+        "display": false
       }
     },
     "images": [
